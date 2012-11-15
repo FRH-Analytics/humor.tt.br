@@ -1,0 +1,4209 @@
+Gamo	-0.304
+verificar e-mail	0.189
+Convento	0.969
+sujo	-0.234
+lutar contra	-0.115
+porta	0.964
+ornamentado	0.282
+Gamo	-0.304
+verificar e-mail	0.189
+Convento	0.969
+sujo	-0.234
+lutar contra	-0.115
+porta	0.964
+ornamentado	0.282
+auto-piedade	-0.419
+viver a vida muito feliz	0.971
+Electricidade	0.246
+similaridade	0.558
+Neemias Silva	-0.79
+imposto inferior	0.969
+Pense com cuidado	0.407
+amarelo	0.195
+gritando	0.313
+rancor	-0.321
+quarta-feira	0.411
+bom comportamento	0.473
+ganhar aposta	0.288
+arregalar os olhos	-0.485
+amor de pessoa	0.635
+Descubra a necessidade	0.527
+elegante	0.33
+FECE	-0.819
+admirar	0.675
+executar bem	0.879
+lasca	-0.619
+Chirk acima	0.279
+calcular	-0.1
+dente de fio dental	0.971
+Puppy love	0.176
+dar palestra	0.112
+tornar-se doente	-0.183
+caixa de presente	0.111
+substituir	-0.918
+cometer erro	-0.439
+cair	-0.361
+joyousness	0.154
+Blue devils	-0.12
+atraso	-0.114
+exortar	0.279
+passaporte	0.259
+greve	0.133
+vida longa	0.174
+adormecer	-0.165
+Santo	0.19
+relaxar	0.309
+machucar	-0.145
+exuberante	0.172
+tornar-se cego	-0.946
+olhar de pessoa	0.112
+comer fruta	0.888
+vestir o ajuste	0.686
+distanciamento	0.167
+voto	0.373
+Self-Distrust	-0.443
+punheta	0.105
+malignas	-0.499
+cuidado	0.135
+quer	0.604
+absoluto	0.495
+danos	-0.382
+como	0.198
+comer direito	0.174
+beleza	0.354
+vida melhor	0.981
+soltar a bola	-0.327
+pavio curto	-0.737
+desalentado	-0.202
+jogo de banda	0.195
+errado	-0.259
+revolta	-0.381
+acidentes acontecem	-0.942
+assassino de rato	-0.118
+wink	0.178
+variar	0.191
+gritar o grito	0.118
+equipe de parte	0.285
+canta bem	0.939
+admiravelmente	0.228
+com amor	0.172
+ajuste	-0.164
+corajoso	0.679
+escondido	0.147
+sustentar a vida	0.13
+final ao vivo	-0.1
+perkiness	0.336
+obter conhecimento	0.786
+grave	-0.362
+desapego	-0.167
+dor de garganta	-0.55
+competitividade	0.253
+reunir provas	0.118
+vender carro	0.968
+alegremente	0.303
+preciso de ajuda	0.167
+Muito	0.97
+ir a tribunal	-0.193
+Depurar	-0.3
+dizer amor	0.908
+comer doces	0.137
+moinho de vento	0.685
+Mantenha o lugar de cabelo	0.148
+tipo de festa	0.175
+tornar-se rico	0.962
+dissipar	0.268
+atrair o sexo oposto	0.748
+Re	0.358
+pedir dinheiro	0.12
+estar na nuvem nove	0.326
+perder a equipe	-0.944
+alerta	-0.297
+Speedo	0.126
+falar da pessoa de interesse	0.668
+doentiamente	-0.416
+perturbado	-0.208
+Ardour	0.177
+lividity	-0.756
+toque em outra pessoa	0.877
+necessidade de pessoa	0.903
+sente-se escuro	-0.882
+tipo de evento	0.117
+clareza	0.673
+Durma bem	0.402
+capotagem	0.105
+pilha	0.111
+mestre	0.293
+pular de ponte	-0.598
+Bounty	0.375
+Nirvana	-0.373
+rastreamento	-0.422
+pode vegetal	0.967
+pegar a bola de falta	-0.173
+Mostrar	-0.301
+Trek	0.962
+perigo	-0.219
+feriado pessoal	0.131
+ocioso	-0.146
+baixa temperatura	0.281
+sentimento	0.326
+XV de abril	0.125
+tornar-se irritado	-0.401
+assertividade	0.97
+fevered	-0.279
+falar a linguagem humana	-0.175
+timidamente	-0.391
+choca	-0.288
+varizes	-0.937
+ansiosamente	0.174
+veniais	-0.115
+viciado em	-0.931
+seca	-0.919
+cantor	0.285
+urtiga	-0.755
+disaffect	-0.505
+grito	0.161
+Marvel	0.684
+participar	0.288
+viciado em drogas	-0.935
+tornozelo entorse	-0.657
+Cougar	-0.137
+bungee jump	0.286
+felicidade	0.671
+boa bebida	0.265
+Lago de mergulho	0.96
+ajudar outra pessoa	0.967
+umbrageous	-0.738
+Relish	0.171
+pagar Compro	0.678
+pretzel	0.892
+justo	0.294
+Kind-heartedness	0.705
+aviso de pessoa	0.375
+Desfrute de pessoa	0.316
+Fail	-0.107
+Melhores	0.496
+recitar o poema	0.968
+pegar a bola	-0.25
+ludicidade	0.154
+como jogar	0.859
+solicitude	0.285
+boo boo	-0.104
+desprezo	-0.853
+ira	-0.586
+disciplina	0.122
+crime	-0.132
+Sinta-se feliz	0.322
+pena	-0.696
+acidente	-0.193
+aventureiro	0.966
+incenso	0.683
+lavagem de carros	0.59
+argumentar	-0.232
+sem medo	0.172
+encontrar a soma	-0.105
+gravidez	0.124
+confundir	0.674
+comer sobremesa	0.968
+sentir-se culpado	-0.54
+baloon	0.301
+vida	0.315
+Lama de vara	-0.597
+revengefully	-0.492
+Chill	-0.243
+contemn	-0.453
+tornar-se educar	-0.105
+hera venenosa	-0.481
+levantar bandeira	0.683
+objeto de elevador	0.967
+coisas	0.133
+assediar	-0.47
+harmonia	0.233
+expressar tristeza	-0.1
+chorar muito	-0.179
+magoar os outros	-0.807
+perder dinheiro	-0.252
+julgamento	-0.414
+navio de homem	0.671
+manter a promessa	0.977
+bandeira americana	0.122
+distribuir	0.877
+forte desejo	0.508
+Acossado	-0.47
+comer pizza	0.363
+facilidade	0.307
+obediente	0.508
+sentir-se bem	0.416
+ABASHED	-0.135
+fazer melhor	0.523
+desacordo	-0.253
+felicidade extrema	0.412
+compreender o mundo	0.333
+sombra	-0.361
+exclusivo	0.376
+desejo	0.456
+lembrar	0.264
+deixar o trabalho	0.966
+direito	0.41
+Dance bem	0.971
+tempestade fora de sala	0.68
+Enrole para baixo	0.323
+Oceano ao vivo	-0.927
+inimigo	-0.213
+desanimado	-0.243
+jogar sexofone	0.686
+sentir-se inteligente	0.957
+acidente grave	-0.221
+tornar-se velho	0.121
+viver mais de 100 anos	0.683
+boa banda	0.126
+dolorosamente	-0.362
+desespero	-0.634
+repelente	-0.416
+Lua de mel	0.115
+quase cair	-0.103
+grato	0.164
+atrito	-0.36
+suporte	0.244
+animar a pessoa morta de carne	0.875
+feliz	0.428
+Escola da caminhada	0.952
+oferta	0.285
+dinheiro devido	0.121
+melhor bom	0.645
+wrothful	-0.759
+comer sushi	0.972
+happyness	0.301
+Marciano	-0.348
+pragas	-0.407
+Pall	-0.418
+joelho ruim	-0.854
+uma vez ano	0.173
+acalmar	0.271
+stolidity	0.183
+causar frio	-0.195
+pia limpa	0.966
+loja de flores	0.68
+pronome pessoal	0.97
+Mostrar o tempo	0.961
+evento anual	0.174
+duas pessoa	0.348
+ressentimento	-0.738
+dentro de carro	0.288
+desigual	-0.142
+deixar construir	0.671
+ficar esperto	0.269
+comprar muitos	0.683
+festa junina	-0.788
+escolha	0.265
+sombrio	-0.34
+bom valor	0.97
+melhoria	0.358
+maravilhosamente	0.678
+fogueira	0.113
+espiritual	0.287
+ser	0.38
+suspiro	-0.71
+meia suja	-0.66
+carro quebrar	-0.847
+honra	0.423
+restiveness	-0.194
+amor morte	-0.771
+sozinho	-0.882
+reunir amigo	0.138
+brilhante	0.449
+comem muffin	0.679
+fila	-0.711
+temporada Outono	-0.11
+alterar pessoa muito	-0.109
+amor	0.575
+tempo de consumir	-0.315
+prefiro	0.905
+maravilhosa	0.678
+abash	-0.13
+abase	-0.145
+positivo	0.824
+com raiva	-0.823
+amando	0.172
+pulso quebrado	-0.945
+que aprova	0.226
+ignorante	-0.415
+virtude	0.668
+sem som	0.356
+Flash	0.1
+aborto	-0.116
+falar de Deus	0.299
+destacado	-0.502
+impressionante	0.489
+ofensa	-0.738
+Saboreie	0.181
+ouvir piada	0.764
+mulher bonita	0.312
+obter a luta	-0.389
+Data	0.162
+stress	-0.342
+dumbstricken	0.674
+consciente	0.643
+Jardel	-0.463
+velho vestir	-0.658
+auto-censura	-0.358
+perder tempo	-0.254
+scandalmongering	-0.408
+animal do grupo	0.966
+ansiar	0.693
+shuddery	-0.418
+horrorizar	-0.4
+divindade	0.186
+ir para baixo	-0.105
+estupidez	-0.367
+comemorar	0.148
+antipatia	-0.434
+limbo	0.3
+hesitante	-0.465
+atormentar	-0.764
+comer estadia viva	0.593
+disconcertion	-0.15
+Revere	-0.437
+recuperar	0.169
+Boa sorte	0.967
+pessoa	-0.812
+trauma	-0.714
+timidness	-0.391
+dumbfound	0.674
+cabeleireiro	0.667
+satiable	0.26
+bastante	0.216
+desrespeito	-0.943
+fundamento	0.342
+restante	0.135
+equipe de raiz	-0.135
+spam	-0.844
+parte superior do lado	0.955
+Chevy	0.47
+Furby	-0.325
+figura religiosa	0.171
+franzino	0.677
+esquecer o nome	0.977
+inseguro	-0.286
+bengaleiro	0.966
+ira	-0.817
+dia do trabalho	-0.65
+arrepio	-0.175
+projecto	-0.842
+vapores	0.12
+dar tomar	0.676
+Apartamento limpo	0.291
+encontrar a chave	-0.791
+heavyhearted	-0.249
+cower	-0.443
+zelador	0.36
+argumento	-0.541
+triste	-0.422
+dia especial	0.174
+doentio	-0.401
+abrir dolorido	-0.767
+elegante	0.385
+tomar	0.25
+culto na Igreja	0.163
+pimple	-0.831
+conceito abstrato	0.63
+horridly	-0.415
+pular	0.186
+dolor	-0.362
+agitado	-0.189
+intoxicar	-0.704
+enfurecer	-0.748
+dia feliz	0.131
+Elan	0.177
+agressivo	-0.338
+cruel	-0.454
+Ver vermelho	-0.186
+advogado de aluguer	-0.19
+perder credibilidade	-0.944
+alegre ao longo	0.279
+disputa	-0.194
+desenhar o diagrama	0.963
+jardim vegetal	0.672
+desbarata	-0.15
+dano corporal	-0.113
+sentir susto	-0.152
+comer rato	-0.523
+preocupou-se	-0.432
+sacerdote	0.161
+encantado	0.212
+velejar ao redor do mundo	0.68
+vestir de molhado	-0.56
+dente de ruptura	-0.93
+jovial	0.303
+resposta errada	-0.105
+penitently	-0.354
+-me	0.968
+Flipper	-0.907
+anual	0.173
+virar	-0.137
+alegria	0.154
+anti	-0.197
+flutuabilidade	0.336
+parte empresa	0.892
+importar-se com	0.171
+companheirismo	0.196
+reflexiva	-0.217
+hilaridade	0.313
+odiously	-0.396
+evitar a queda	0.97
+veneno de alimentos	-0.849
+enjoado	-0.464
+montanha-russa	0.969
+perder tempo	-0.841
+zero coceira	-0.358
+dor de dente	-0.944
+fama	0.481
+cortar grama	0.971
+nervosismo	-0.194
+pegar o beisebol	0.278
+crueldade	-0.454
+pessoa com raiva	-0.859
+quer entreter	0.307
+homem santo	0.191
+saco de soco	-0.116
+freneticamente	-0.371
+devaneio	0.267
+animador	0.154
+Odium	-0.376
+Leia o programa	-0.104
+desgaste limpo vestir	0.668
+cozido no vapor	-0.755
+disconcert	-0.138
+sulky	-0.588
+ensinar a mente aberta	0.286
+fazem caminhada	0.971
+dolefulness	-0.272
+Alegre	0.381
+escuro	-0.113
+guerra nuclear	-0.818
+crescer grande	0.174
+Atreva-se	0.19
+encontrar o fato	-0.119
+vestir roupa limpa	-0.143
+discomposure	-0.15
+bater palmas	0.168
+linha de tempo	-0.848
+comemorar eventos	0.133
+machucar	-0.17
+frio quente	-0.599
+cavidade	-0.022
+bola de campo	0.968
+heartsickness	-0.202
+cannabis	0.12
+tendenciosa	0.679
+raspas	0.171
+exultante	0.326
+queda de viagem	-0.51
+exasperante	-0.748
+queda ao mar	-0.915
+com alegria	0.154
+Praia do sol	0.963
+pessoa singular	0.971
+aprender a evento atual	-0.333
+oferecer dinheiro	0.69
+sem abrigo	-0.179
+pedir desculpas	-0.498
+tente ganhar	0.505
+junk mail	-0.732
+hangdog	-0.188
+Grupo junto	0.295
+fidgetiness	-0.198
+decorar casa	0.677
+Outubro	-0.123
+ano novo	0.116
+raiva	-0.788
+transtorno de ansiedade	-0.11
+sujo	-0.114
+unfearing	0.172
+objeto limpo	0.674
+Concordo	0.166
+susto	-0.404
+Ai	0.405
+certos	0.563
+Abra o vento	-0.82
+perder de encontrar	0.887
+jogo de bola	0.313
+como	0.376
+Catedral	0.166
+tranquilo	0.364
+tremer	-0.213
+radiante	0.287
+olhar o sol	-0.95
+sanguine	0.17
+ganhar o jogo de beisebol	0.112
+com simpatia	0.709
+usar colar	0.284
+caverna profunda	-0.17
+medo morte	-0.961
+gravidade	0.303
+Irmandade	0.214
+apprehensiveness	-0.395
+jogo de caixa	-0.197
+cooty	-0.885
+pensar abstrato do sistema	0.955
+dinheiro extra	0.163
+gripe	-0.946
+Considere	0.256
+ter	0.177
+bem-estar	0.562
+transformar o calor	0.972
+dar presentes	0.294
+caminhada da lua	0.284
+incentivar	0.348
+Top dog	0.969
+Para	0.408
+murderousness	-0.371
+fazer isso	0.883
+eixo	-0.839
+facilidade	0.268
+vender seguros	0.967
+Strand	-0.779
+trabalho de dia duro	-0.289
+cada pessoa	0.108
+corpo forte	0.968
+Laud	0.508
+traquinas	-0.755
+Sane	0.668
+Harry	-0.162
+enthrallment	0.212
+sabe tudo	0.393
+overstrung	-0.189
+tornar-se intoxicar	0.168
+deixar o exame	-0.866
+Concordo discordo	0.895
+pegar o baixo	0.966
+comer cereais	0.953
+vivem no subsolo	-0.565
+popular unir o estado	0.075
+horror-stricken	-0.415
+queimar torradas	-0.915
+escolher	-0.163
+amatory	0.176
+sorte	0.959
+festa na piscina	0.129
+uprise	-0.226
+dentro de casa	0.954
+casa de abelha	-0.86
+fora do acampamento	0.963
+ganhar o respeito	0.567
+indispose	-0.507
+praiseworthily	0.228
+amative	0.176
+sentar-se	0.289
+warmhearted	0.165
+lindo	0.37
+Teen	0.134
+grosseria	-0.941
+gossipe	0.107
+desassossego	-0.185
+pessoa Compro	0.216
+chega de trabalho	0.882
+prompt de	0.83
+skate de gelo	0.954
+varredura	-0.177
+decepcionou	0.135
+aceitar	0.262
+Outono	-0.116
+sentido	0.183
+desgosto	-0.416
+aliviar o stress	0.27
+desconsolada	-0.351
+ganhos	0.139
+derrubarem	-0.223
+World-weariness	-0.366
+suspensivo	-0.341
+simpatizo	0.267
+pessoa feliz	0.503
+dia anual	0.131
+Mousse	0.102
+atitude	0.541
+alegria	0.279
+obter presentes	0.445
+comer peixe cru	0.97
+epilepsia	-0.938
+afugentar	-0.391
+imperturbableness	0.344
+obter frente	0.49
+Grupo reunir	0.119
+dor nas costas	-0.861
+Deixe cair para baixo	-0.119
+tenso	-0.189
+atividade de cama	0.139
+trabalho de bicicleta	0.966
+tranquilizado	0.18
+vida de perda	-0.177
+enjoada	-0.401
+ano de idade	0.162
+morena	0.686
+anel do sino	0.1
+Pestana	0.686
+jogo hide seek	0.294
+transversal do olho	-0.905
+Blues	0.12
+aterrorizar	-0.946
+realmente	0.123
+tirano	-0.135
+fim de relacionamento	0.678
+Olhe para baixo	-0.814
+qualificar	0.97
+despreocupado	0.332
+misoginia	-0.369
+comida de bom gosto	0.966
+piada em torno	0.162
+adoecer	-0.405
+porta de ar	0.686
+cianeto	-0.278
+principais	0.163
+scare afastado	-0.391
+beligerante	-0.341
+se sentir melhor	0.194
+mau tempo	-0.653
+promessa	0.207
+palpite	0.196
+sorriso	0.379
+pessoa religiosa	0.175
+pacificamente	0.399
+Romper	-0.912
+relacionamento	0.297
+machucar outra pessoa	-0.148
+trabalhar muito	-0.942
+Walmart	0.685
+casamento	0.25
+cesta de frutas	0.221
+operar computador	0.674
+unassertiveness	-0.463
+determinar a necessidade	0.132
+comer merda	-0.421
+heartburning	-0.314
+amor de outono	0.309
+Mosteiro	0.201
+esconder provas	-0.12
+febre de bola	-0.285
+garoto mau	-0.202
+coven	0.969
+Microsoft	0.118
+desprezar	-0.789
+manter a calma	0.18
+Golf	0.29
+exterminar	-0.108
+chamada doente	0.327
+impacto	-0.116
+Ver o outra pessoa	0.296
+sanguineness	0.17
+pode adormecer	-0.125
+Amor verdadeiro	0.982
+peixe truta	0.97
+equipe de trabalho	0.961
+assustador	-0.456
+tumulto	-0.421
+Scary movie	-0.162
+terrivelmente	0.678
+enema	-0.496
+caso cerveja	0.107
+insano	-0.572
+Criador	0.165
+Bozo	0.116
+sexo	0.227
+mancada	-0.129
+casa grande	0.294
+Observe o problema	0.972
+ser senciente	0.682
+precisa relaxar	0.315
+rito	0.22
+beatificar	0.152
+elogio	0.899
+temporada de outono	-0.11
+dificuldades	-0.932
+inquieto	-0.198
+acredito que a pessoa	0.361
+incidente	0.151
+Lembre-se de evento	0.884
+objeto de grupo	0.97
+Mostrar a felicidade	0.1
+Lass	-0.143
+Outros entendem	0.675
+gravar o som	0.264
+receoso	-0.439
+Deixe	0.265
+aprovar	0.226
+PDA	0.177
+Igreja	0.181
+pneu do resto	0.967
+diabo	-0.538
+sujeira	-0.851
+mensal	0.125
+extravagante	0.269
+nenhuma guerra	0.608
+ajudar outro	0.965
+forma maldosa	0.138
+comportamento correto	-0.177
+infectar	-0.78
+perder a guerra	-0.939
+ficar nervoso	-0.109
+sentimento de companheiro	0.664
+representante	0.965
+ajudar os outros	0.342
+alegria	0.154
+divertida	0.313
+spitefulness	-0.501
+erro	-0.487
+ao swin	0.965
+envelhecer	0.17
+passeio de cavalo	0.308
+misology	-0.365
+casa de praia	0.686
+chorar, gemer	-0.184
+perder o sono	-0.602
+desagradou	-0.757
+Assistir futebol	0.309
+ciosamente	-0.284
+necessidade	0.411
+Palo alto	0.97
+tipo diferente	0.288
+repugnante	-0.408
+unha de pintura	0.677
+plaguey	-0.755
+Todas as coisa	0.308
+arrumar	0.215
+raiz-forte	-0.933
+surpreendido	0.678
+fritar frango	0.975
+casal	0.152
+sofrimento	-0.252
+Use a arma	-0.504
+dedo de contagem	-0.1
+mente de estado	0.45
+pessoa relaxar	0.336
+encontro de pessoa	0.132
+transtorno	-0.949
+Senado	0.177
+manter a palavra	0.959
+visitar amigo	0.317
+perna de pau	-0.828
+sente-se comer	0.97
+verificar o ressalto	-0.944
+cadeira de cabeleireiro	0.286
+novidade	0.292
+comportar-se	-0.108
+Templo	0.194
+Grupo de estudo	0.31
+ganho financeiro	0.145
+acordo	0.308
+deixar sozinho	-0.713
+Carinha Feliz	0.104
+arrogante	0.292
+recriar	0.664
+dia nascido	0.173
+sente-se banco	0.366
+outro planeta	0.591
+dar de volta	0.18
+tempo especial	0.148
+perplex	0.674
+Segure o licor	-0.944
+judeu	0.226
+Pastor	0.177
+quarto desarrumado	-0.852
+encantado	0.212
+dente bom	0.957
+aterrado	0.677
+comida deliciosa	0.304
+conhecimento do desejo	0.127
+altura de jogar basquete	0.903
+raiva	-0.84
+vestir de derramamento de alimentos	-0.758
+noiva noivo	0.176
+idade	0.103
+aproximou	-0.36
+zero	-0.115
+Robin hood	0.221
+Lei de quebra	-0.148
+em causa	-0.167
+Defenda-se	0.161
+comemorar anualmente	0.131
+olhar sobre	0.306
+importunando	-0.755
+aposentar-se	0.171
+tortura	-0.645
+Heartattack	0.168
+bateu a pessoa	0.896
+precisa de companheirismo	0.285
+magia	0.373
+dar de dedo	-0.107
+casar-se com	0.433
+ansioso	-0.32
+antecipadas	-0.262
+adoentada	-0.401
+arrancar o computador	-0.1
+Romeo juliet	-0.126
+Ode	0.383
+assento piloto	0.965
+shivery	-0.418
+colete social	0.123
+camisa de ferro	0.966
+Desativar	-0.109
+inseguro	-0.286
+perfurador	-0.125
+misgiving	-0.286
+pobreza	-0.534
+permanecer vivo	0.357
+bom ouvinte	0.664
+misoneism	-0.366
+grande	0.548
+envolver-se	0.226
+dedo quebrado	-0.942
+receber	0.247
+questionar tudo	0.901
+derrota	-0.305
+Mostrar-se feliz	0.102
+Maker	0.184
+mortificar	0.145
+emocionante	0.169
+propor	0.269
+senso comum	0.588
+conta de telefone grande	-0.962
+Panic-Struck	-0.449
+Diga o nome	0.182
+melancolia	-0.288
+Desfrute de filmes	0.139
+esconder o corpo	-0.11
+tinta spray de grafitti	0.288
+montanha-russa	0.965
+caridade	0.615
+dar a dica	0.192
+faneca	-0.303
+reproduzir	0.227
+cumprir	0.141
+comer comida ruim	-0.943
+frieza	0.374
+Slim	0.674
+saltar para fora	0.169
+pessoa mal	-0.1
+finalidade	0.241
+gato morto	-0.111
+atraso	-0.59
+caxumba	-0.812
+bedaze	-0.485
+quantidade de nada	0.286
+acidente de carro	-0.322
+uso do poder	0.941
+sentimento de classe	-0.424
+desolado	-0.363
+bater punho	-0.14
+Ver claramente	0.666
+distressfully	-0.208
+fazer nada	0.292
+permitir	0.231
+auto-suficiente	0.971
+tempo sozinho	-0.763
+perfeito	0.975
+arrepio	0.119
+dever dinheiro	0.121
+Prosper	0.968
+Python	-0.254
+euphory	0.342
+pode ir a cadeia	-0.105
+perceber	0.204
+com tristeza	-0.36
+verdade	0.786
+Tentar novamente	0.77
+expectativa	-0.262
+vinho fino	0.684
+sociedade	0.288
+carefreeness	0.332
+despedimento	-0.645
+veneno	-0.514
+soberbamente	0.678
+fechar	-0.818
+merda	-0.1
+perder tempo de pista	-0.557
+ganancioso	0.875
+reunir a pessoa	0.111
+apreciar arte	0.289
+assustador	-0.41
+alimentos mofados	-0.843
+derramamento	-0.453
+janela de lavagem	0.673
+exercitar a mente	0.285
+serenidade	0.363
+distinguir	0.379
+susto	-0.51
+cena	0.131
+Jesus	0.192
+entre mundo	0.112
+dinheiro do governo	0.132
+Festival	0.136
+emocionante	0.276
+protestei	-0.422
+doloroso	-0.11
+desgosto	0.131
+olhar diferente	0.242
+deprimente	-0.218
+iniciar o computador	0.969
+tranquilidade	0.408
+se preocupar	-0.8
+Cassia Juliana	0.307
+montanha-russa	0.288
+entenda mal	-0.582
+falar-se	0.964
+tranquilizador	0.18
+gentil	0.479
+sentir o calor	0.959
+manter a casa limpa	0.963
+recepcionista	0.285
+abrir campo	0.957
+admirado	0.677
+alegria de pessoa	0.355
+ressaca	-0.622
+Taleban	-0.135
+disgustedly	-0.416
+furioso	-0.739
+cortesia	0.663
+medalha	0.318
+jocosidade	0.312
+tranquillise	0.339
+Abra a caixa de correio	0.681
+trazer	0.204
+anticipant	-0.262
+trivial	-0.284
+jogar cachorro	0.663
+acidente de carro	-0.782
+perna peluda	-0.742
+angustiante	-0.208
+antagonismo	-0.424
+familiar	0.12
+manter o material	0.156
+sorte	0.296
+apatia	0.195
+bom melhor	0.507
+tristeza profunda	-0.239
+pronome	0.968
+anomic	-0.505
+alimentos frescos	0.667
+linda	0.965
+destino	0.348
+tristeza	-0.454
+incomoda	-0.755
+farto	-0.416
+muito trabalho	-0.684
+birra	-0.721
+droga	-0.111
+realidade de fuga	-0.217
+magra contra	0.686
+bee Sting	-0.945
+sentir-se mal	-0.773
+comer doce	0.663
+tranquilizar	0.339
+trazer comida	0.972
+forasteiro	0.965
+deslumbrante	0.485
+sei muito	-0.386
+tirania	-0.918
+Sheepish	-0.136
+Jame bond	0.895
+anel de orelha	0.125
+odioso	-0.357
+luta de pessoa	-0.117
+muita felicidade	0.124
+mau filho	-0.121
+surpreendentemente	0.678
+otimista	0.168
+gastar mais	-0.862
+tatuagem	0.662
+terrorista	-0.153
+romance	0.497
+trabalho de pressa	0.285
+surto	-0.207
+terrorismo	-0.777
+com alegria	0.154
+fazer a pessoa rir	0.103
+quer unir	0.415
+identidade	0.875
+diabetes	-0.946
+auditoria	0.12
+fascinar	0.212
+reconhecimento	0.901
+beijo	0.13
+obrigar	0.256
+muitos anos	0.109
+generoso	0.907
+gloomful	-0.351
+tempo de abrigo	0.965
+rachadura	0.122
+taunt	-0.21
+nanotecnologia	0.961
+momento especial	0.166
+fanatismo	0.215
+aprisionar	-0.881
+tornar-se	0.34
+topo da montanha	0.683
+imortal	-0.902
+embriaguez	0.138
+Flush	0.16
+reconhecimento	0.891
+si mesmo	0.889
+escrever de volta	-0.101
+evitar	-0.858
+perdoado	0.972
+happine	0.465
+estilo de vida	0.97
+idolatrar	-0.437
+Jolly acima	0.279
+aluno	-0.122
+desinteressante	-0.945
+buceta	0.154
+compromisso	0.371
+dia de Natal	0.131
+incomodando	-0.208
+comer cachorro-quente	-0.256
+timidez	-0.43
+Cruz da guarda	0.591
+dor	-0.131
+Lisa	0.147
+triunfante	0.292
+haraganear	-0.415
+trepid	-0.439
+problema	-0.132
+verificar e-mail	0.679
+obeso	-0.924
+reconhecer	0.252
+ajudar a resolver o problema	-0.141
+Ver filme	0.664
+durar muito tempo	0.967
+variedade	0.233
+mortal	-0.102
+segunda-feira	-0.847
+oportunidade	0.179
+enlightment	0.287
+Mozart	0.288
+Sinta-se satisfazer	0.135
+abomino	-0.376
+animador	0.167
+ofendido	-0.745
+entropia	-0.16
+integridade	0.903
+Daze	-0.485
+endurecer penal	-0.107
+amorosas	0.176
+nome do meio	0.106
+cabelos grisalhos	-0.739
+invejar	-0.299
+Capela	0.174
+mirthfulness	0.313
+derretimento do sorvete	-0.945
+triunfo	0.326
+ir dmv	-0.958
+hora atual	0.131
+chifre	-0.108
+pregador	0.161
+salvar o ambiente	0.977
+displeasingly	-0.757
+forlornness	-0.379
+frutas frescas	0.318
+festiva	0.172
+ficar mal	-0.933
+bola oito	0.878
+passeio a cavalo	0.295
+dar de presente	0.384
+com pessoa	0.195
+triste	-0.431
+bondoso	0.705
+com raiva	-0.586
+vapores	0.12
+nauseate	-0.405
+motivar	0.212
+negativo	-0.783
+bom mau	0.29
+insulto	-0.457
+vida humana	-0.167
+separados	-0.502
+ir	0.118
+casa ao vivo	0.689
+nome de menino	-0.287
+Err	-0.483
+viva	0.67
+habilidade social	0.174
+rastejar	-0.443
+tornar-se o furo	-0.379
+parar de pensar	-0.133
+indiferente	-0.512
+fornecer	0.32
+agonia	-0.336
+tumor cerebral	-0.944
+decepciona	-0.612
+ouvir som	-0.142
+fudge	0.105
+Reserva de livro	0.971
+Gamble	-0.376
+cama de migalha	-0.855
+febre	-0.328
+obter bilhete	0.334
+Lax	-0.293
+leigos	0.295
+morte de resultado	-0.115
+complacente	0.133
+viagem a lua	0.963
+alienar	-0.505
+apreciar	0.482
+cumprimentar	0.281
+estimular	0.362
+desonestos	0.97
+impiedoso	-0.432
+picada de mosquito	-0.89
+consentimento	0.333
+satisfeito	0.26
+iradas	-0.759
+sexo do monte	0.674
+atingir meta	0.535
+quantica	-0.505
+dor extrema	-0.196
+valor	0.494
+comer verme	-0.74
+em seguida	0.15
+Quantos anos	0.157
+fragmento	0.889
+pausa	0.107
+confessar o pecado	-0.115
+calmante	0.339
+boa pessoa	0.551
+bebebasico	0.212
+Chubby checker	0.105
+deslustrado	-0.351
+Lisp	0.186
+portar-se mal	-0.101
+cabelo limpo	0.682
+assustar a pessoa	-0.106
+manter a gaiola	-0.273
+alegrou	0.152
+misanthropical	-0.206
+remorso	-0.648
+colocar o saco	0.676
+tarefa completa	0.963
+sentir o pneu	-0.511
+espanto	0.672
+Ver estrela	0.173
+piolho	-0.745
+limpar a mente	0.144
+opor-se	-0.22
+solicitousness	0.285
+veracidade	0.654
+passar o grau	0.892
+compromisso	0.214
+falar de telefone	0.314
+feliz	0.303
+computador de controle	0.186
+comovente	-0.362
+maleta de transporte	0.673
+jogar fogo	-0.836
+alvo	-0.501
+culpa	-0.543
+jovialidade	0.307
+maneira	0.481
+desabafar	0.32
+mesmo tempo	0.342
+carregado	-0.135
+luxo	0.248
+abaixo do joelho	0.25
+Quiet	0.339
+timidez	-0.391
+pessoa singular	0.686
+o que	0.165
+sentido de dedo	0.168
+desmoralizado	-0.243
+calma	0.443
+comer muita gordura	-0.115
+esperar pacientemente	0.672
+dolorosamente	-0.208
+ardor	0.177
+lazer	0.293
+protetora	0.167
+sem dinheiro	-0.749
+irritar outros	-0.783
+comer pudim	0.883
+disincline	-0.507
+modelo do carro	0.163
+miseravelmente	-0.406
+alegria	0.287
+antes do casamento	0.315
+doze meses	0.122
+horroroso	-0.456
+realizar pesquisas	0.18
+calamidade	-0.105
+acordo	0.414
+ajudar a encontrar	0.202
+cuecas molhadas	0.135
+Basta comer	0.689
+temperamento doente	-0.726
+doente	-0.651
+Brag	0.179
+trem de acionamento	0.966
+machucar a pessoa	-0.686
+montanha-russa	0.301
+carro de acidente	-0.852
+comida ruim	-0.864
+loja de bicicleta	0.685
+Noel	0.112
+amado	-0.106
+cantar o coro	0.971
+blitheness	0.279
+Excite	0.306
+grua	0.116
+Sinta-se feliz	0.624
+Mostrar-se	0.192
+esculpir	0.954
+Ail	-0.102
+ajuda	-0.236
+erro	-0.283
+Dizzy	-0.168
+upgrade	0.149
+recolher dinheiro	0.125
+trabalho final	-0.501
+crawlspace	0.671
+patente	0.172
+melhor emprego	0.419
+perder o temperamento	-0.508
+solta	0.599
+independente	0.361
+mal	-0.506
+Take bow	0.112
+humilde	0.145
+goof fora	-0.121
+contato	0.169
+THC	-0.135
+nascimento	0.162
+Repose	0.399
+carta de correio	0.112
+Josh	0.307
+passivo	-0.797
+exaltar	0.152
+forte antipatia	-0.135
+fazer direito	0.162
+cabo	0.109
+skanky	-0.416
+triunfal	0.292
+Muito bom trabalho	0.132
+fome	-0.79
+Sair	0.31
+tornar-se culto	-0.292
+Nascido	0.144
+rile	-0.755
+trabalheira	-0.47
+assistir o jogo de beisebol	0.144
+furo	-0.287
+bilhete Parque	0.236
+adoravelmente	0.172
+humor	0.112
+estragar comida	-0.945
+entretenimento Aprenda	0.221
+foto tirada	0.166
+viver simplesmente	0.972
+pronome masculino	0.686
+pose	0.657
+corte da fita	0.161
+Herpes	-0.625
+joio	0.307
+nadar mar	0.666
+fim de vida	-0.104
+acalentar	0.902
+huffishness	-0.303
+voltar para casa	0.293
+coaxar	-0.639
+dilema	-0.68
+ruefulness	-0.357
+o prazer	0.212
+ganhar loteria	0.534
+Feche o livro	-0.116
+tempo quente	0.299
+entregar	0.463
+delito	-0.154
+ajudar a pessoa	0.364
+nada melhor	-0.126
+afetivas	0.165
+catalisador	0.128
+surpreendido	0.677
+inquietos	-0.189
+true	0.324
+generosidade	0.633
+provas	0.246
+estrume	-0.685
+uivando	0.678
+mesquinhez	-0.944
+desleal	-0.686
+encontrar carro	-0.139
+assustar-se fora	-0.391
+Hero-Worship	0.437
+bem-vindo	0.569
+educado	0.368
+misturar a massa	0.1
+amar aos outros	0.971
+arma do crime	-0.114
+pensively	-0.288
+desmoralizar	-0.204
+catarro	0.183
+conceito	0.248
+grato	0.377
+dedicado	0.178
+terror	-0.492
+quarta-feira, plano	0.695
+protetor	0.167
+brownie	0.11
+inimizades	-0.508
+Tome banhos de sol	0.673
+intestino	-0.753
+mau gosto	-0.416
+Valente	0.104
+se arrepender	-0.3
+agitar	-0.299
+custo	0.125
+entorpecer	0.674
+nome de chamada	0.785
+indefeso	-0.557
+assustar	-0.391
+satisfazer	-0.503
+exercize	0.29
+esqui de neve	0.969
+alegria	0.154
+dente quebrado	-0.861
+avidez	0.174
+danos cerebrais	-0.79
+pessoa de cuidados	0.621
+snowboard	0.301
+atroz	-0.415
+nauseabundo	-0.401
+provar	0.288
+ungratefulness	-0.298
+cativar	0.212
+boa sorte	0.969
+bebida social	0.115
+maravilhosamente	0.678
+mundo de regra	0.287
+convidar a pessoa	0.122
+ir a mercearia	0.68
+arrependimento	-0.354
+pista	0.185
+pane no computador	-0.935
+imperturbabilidade	0.344
+Lamentavelmente	-0.421
+realizar experimento	0.667
+salvar o mundo	0.964
+consulte o Oceano	0.67
+mudar de canal	-0.191
+Dezembro de	0.611
+vestir-se bem	0.288
+Spa	0.319
+produtivo	0.121
+dizer obrigado	0.672
+capoeira angola	0.257
+entender de aumento	0.334
+perder muito dinheiro	-0.873
+viagem coloque outro	0.675
+bawl	-0.184
+revoltados	-0.416
+desistir	-0.767
+indiferentemente	-0.102
+pele lisa	0.686
+evento festivo	0.134
+ofender	-0.99
+pegar mulher	0.104
+na verdade	0.598
+Feiticeira	0.212
+comodidade	0.303
+comida picante	0.684
+ainda	0.406
+exultante	0.292
+inimigo de derrota	0.17
+imortalidade	0.179
+sufocar	-0.106
+terrivelmente	-0.415
+hackles	-0.723
+Chame o telefone do amigo	0.297
+Smash	0.105
+aceno	0.224
+impassivity	-0.183
+dar sangue	0.682
+introduzir	0.257
+Hale	0.386
+afastar	0.682
+vexame	-0.755
+trabalho em casa	0.671
+avidez	0.174
+ex	0.185
+ano	0.104
+realizar	0.285
+luz colore	0.686
+Tingle	-0.138
+desgaste velho vestir	-0.882
+rebelde	0.598
+cuidados	0.563
+estado emocional	-0.107
+capaz de ler	0.964
+honesto	0.52
+convite	0.293
+dor de ouvido	-0.859
+-se	0.295
+agitar-se	-0.414
+Ver amigo	0.721
+agarramento	0.279
+amigo	0.311
+olho negro	-0.796
+criticar	-0.924
+passar o tempo	-0.147
+fazer o brinquedo	0.142
+otimismo	0.548
+placidness	0.366
+anjo	0.191
+Olhe-se	0.216
+raiva	-0.765
+pensar criativamente	0.884
+recuperar	0.197
+on-line	0.67
+objectivo	0.164
+ego	0.971
+antes do inverno	-0.12
+opressivo	-0.135
+cinco sentido	0.173
+lightsomeness	0.332
+controle de volume	0.678
+Desligar	-0.157
+ensinar de novo	0.692
+destro	0.971
+matar outra pessoa	-0.684
+quinto	0.112
+montanha rochosa	0.672
+alcoolismo	-0.164
+bom trabalho	0.599
+registrar voto	0.123
+sentimento ferido	-0.637
+repulsa	-0.396
+appreciatively	0.164
+raramente	-0.176
+tristemente	-0.421
+aprender novos	0.238
+fome	-0.802
+viagem distante	0.678
+incitar	-0.414
+overjealous	-0.981
+aviso	0.167
+culpa	-0.946
+ar limpo	0.97
+gargalhada	0.308
+monge	0.166
+oprimidos	-0.135
+feliz festa	0.159
+nas proximidades	0.672
+comer osso	-0.144
+repulsivamente	-0.396
+loucura	-0.813
+construir computador	0.971
+mau agouro	-0.432
+comemorar o nascimento	0.131
+pronomes possessivos	0.967
+adquirir riqueza	0.97
+Acalme	0.349
+partygoer	0.315
+assustadoramente	-0.391
+truque	-0.108
+vela de sopro	0.169
+evitar trabalho	-0.127
+aprender lisp	0.123
+preocupar-se	-0.133
+misantropia	-0.349
+inquirir	0.17
+importunar	-0.941
+irritado	-0.739
+impressionar os outros	0.143
+gozo	0.119
+tecladista	0.67
+desejo viagens	0.67
+misogynic	-0.369
+encarregar-se	0.292
+encantadora	0.212
+comprar amor	0.121
+conter	-0.845
+coreografia	0.101
+conhecedor	0.954
+Mostrar os dentes	0.104
+cortar papel	0.665
+corredor da morte	-0.591
+melhor classe	-0.185
+morte	-0.261
+tomar aspirina	-0.3
+rosto de soco	-0.757
+melhoria	0.495
+tratamento	0.103
+ir a guerra	-0.808
+triste	-0.424
+Bordom	-0.39
+Tucows	-0.303
+exultar	0.321
+picado	-0.755
+EARNEST	-0.303
+colocar para baixo	-0.648
+fortuna	0.243
+benefic	0.187
+milagre	0.332
+anualmente	0.136
+enganou	0.212
+chama de cera	0.108
+Abra o presente	0.121
+lugar santo	0.177
+vestir sujo	-0.565
+Jubilate	0.319
+Caminhe pela praia	0.969
+pagar multa	-0.944
+entristecem	0.96
+zit	-0.937
+documento de sinal	0.673
+inquieto	-0.32
+agitado	-0.279
+chegar ao	0.486
+parcialidade	0.182
+carinho	0.185
+Veja noite de estrela	0.966
+ideologia	0.688
+alegria de sentido	0.305
+pessoa individual	0.686
+seu	0.174
+explicar tudo	0.688
+Disneyworld	0.964
+baixa	-0.247
+polidez	0.577
+queixa de ar	0.968
+compassionateness	-0.26
+computador quebrado	-0.946
+gemido	0.152
+intervalo	-0.115
+pagar a mais	-0.801
+fungos	-0.723
+roupa limpa	0.968
+confiabilidade	0.971
+nerd	0.29
+maravilhosamente	0.678
+anarquia	-0.407
+boa conversa	0.88
+evento especial	0.185
+pobre	-0.473
+titillating	0.326
+Studio	0.297
+apatia	-0.961
+tornar-se o resto	0.131
+no exterior	0.684
+pensativo	0.907
+Veja comercial	-0.204
+religiosa	0.254
+inveja	-0.299
+apostar dinheiro	-0.112
+Sinta-se importante	0.968
+equipe perder	-0.873
+banheiro	0.95
+deve dinheiro	-0.825
+estragar	-0.944
+muito	-0.1
+horror	-0.682
+especial acontecer	0.177
+verbo	0.207
+decidir	0.191
+ficar reta	0.686
+mesa de trabalho	0.292
+pedido educado	0.124
+orgasmo	0.285
+gayly	0.303
+risada	0.367
+repugnante	-0.396
+tumulto	-0.775
+solto	-0.199
+desorganizar	-0.879
+social	0.289
+arrasta-se	-0.443
+em frente	0.35
+MDMA	0.126
+deixar claro	0.16
+comer chocolate	0.313
+queimado	-0.861
+se livrar do inimigo	-0.122
+tranquilamente	0.408
+ferir	-0.271
+sentir o stress	-0.942
+resposta de humor	0.107
+Desculpa	-0.767
+infractor	-0.181
+transtorno mental	-0.147
+impressionar a outra pessoa	0.165
+excitados	0.326
+vestido de Cap	0.101
+fundamentalista	0.208
+desmoronar	-0.486
+ouvir boa piada	0.111
+compartilhar outros	0.355
+excluir	-0.939
+programador de computador	0.968
+explodido	-0.746
+rejeitar	-0.834
+vento leve	-0.937
+ir a Igreja	0.605
+altamente amarrado	-0.189
+rude	-0.432
+fim mundo	-0.983
+suspiro	0.188
+patim de rolo	0.963
+tempo de lazer	0.385
+Dread	-0.4
+Ajuda	0.246
+sentido de pele	-0.141
+urina	-0.515
+surpreender	0.677
+por favor, pai	0.211
+Aproveite amigo de empresa	0.412
+cupcake	0.134
+fantasia	0.386
+bom tempo	0.488
+perca	-0.854
+Mostrar o cuidado	0.684
+rir-se	0.967
+hemorragia nasal	-0.792
+bateu duro	-0.138
+matar-se	-0.559
+evento	0.153
+sentir alegria	0.635
+testemunhar	-0.102
+Jolly	0.304
+careca	-0.476
+Dire	-0.456
+ganhar o respeito	0.968
+perguntar	0.278
+toque fogo	-0.692
+infeliz	-0.406
+bash	0.128
+execrate	-0.376
+torcendo	0.26
+sonho ruim	-0.613
+banheiro limpo	0.417
+probabilidade	0.188
+o mais velho	0.24
+Demitir	-0.944
+Miss	-0.28
+maravilhoso	0.801
+infligir dor	-0.189
+quarta-feira, voto	0.265
+mesmo placar	0.671
+beber veneno	-0.909
+Limpe o olho	-0.104
+STD	-0.945
+gentilmente	0.187
+Lamento	-0.331
+antecipar	-0.191
+passeio de montanha-russa	-0.134
+espanto	0.678
+fobia	-0.47
+dar presente	0.143
+gastar muito dinheiro	-0.504
+usar drogas	0.97
+pagamento mensal	0.675
+tornar-se rico	0.366
+Trance	0.286
+florida de inverno	0.974
+fraca	0.172
+comido	-0.128
+aprovado	0.226
+expressar sentimento	0.243
+em termos de popularidade	0.531
+mistura	0.175
+hiper	0.141
+atordoado	0.587
+Bonheur	0.153
+muito	0.12
+Darwin	0.129
+evento religioso	0.127
+tipo	0.682
+ganhar dinheiro	0.152
+famosos	0.514
+dedilhar	0.665
+soprar a vela	0.103
+somberness	-0.351
+Alexandre	0.68
+quintal de cerca	0.973
+perfume	0.201
+bom corpo	0.359
+retirada	0.167
+entreter-se	0.169
+irritabilidade	-0.737
+esquizofrenia	-0.815
+sentir-se ferido	-0.178
+fechar	0.15
+Uau	0.144
+cheerlessness	-0.235
+equipe alegria	0.145
+Xeque-mate	0.108
+Ai	-0.354
+arquiteto	0.285
+inconsciente	-0.197
+timidamente	-0.391
+aggrieve	-0.362
+tirar fotografia	0.671
+aflito	-0.362
+recolhimento de pessoa	0.128
+esquecido	-0.859
+para ser	0.428
+dormir demais	-0.161
+jogo directo	0.969
+qualquer que seja	0.974
+compartilhar o segredo	0.169
+coldheartedness	-0.432
+nenhuma pessoa	0.102
+porra	-0.115
+avisar o sinal	-0.299
+olhar para cima	0.228
+afirmativa	0.226
+Pacto	0.35
+tear	-0.303
+Rir muito	0.16
+governador	0.662
+comer torta	0.669
+Guia	0.292
+Certifique-se de bilhetes	0.13
+caro	-0.208
+sentimento bom	0.581
+Grand	0.675
+conflito	-0.384
+avarentos	-0.284
+Melhor amigo	0.121
+brincadeiras	0.307
+cumprimento	0.141
+bebida cappuccino	0.669
+necessidade feita	0.16
+ruidosamente	0.413
+auto-respeito	0.9
+colocar a cadeia	-0.841
+lackadaisical	-0.236
+executar o Presidente	0.964
+aposentadoria	0.128
+animar	0.205
+sentir-se sonolento	0.289
+irritar o vizinho	-0.944
+cheerlessly	-0.235
+comemorar idade	0.131
+com entusiasmo	0.169
+cientista louco	0.97
+quietude	0.408
+popular	0.419
+vender casa	0.681
+urgente	0.332
+empobrecer	-0.943
+Repete	0.967
+beneficamente	0.187
+sentimento ruim	-0.942
+bondoso	0.705
+plano de terra	0.674
+Rue	-0.351
+guisado	0.215
+partido de idade	0.131
+dor de	-0.551
+ir a hospital	-0.773
+subtrair	-0.13
+no exterior	0.96
+recolher alimentos	0.593
+enfureceu	-0.739
+huffiness	-0.745
+dia de festa	0.131
+tofu	0.317
+Ver natureza	0.955
+enfurecer	-0.748
+tempo agora	0.125
+alimentos bebidas	0.127
+-se	0.97
+noisome	-0.401
+canalhice	-0.241
+muita chuva	-0.946
+psicose	-0.597
+semelhantes	0.372
+hesitante	-0.465
+vida de especiarias	0.971
+adequada	0.5
+estranhamento	-0.505
+bom amigo	0.448
+psicopata	-0.108
+casa grande	0.315
+tornar-se doente	-0.922
+nascimento da silva	-0.779
+mau humor	-0.726
+alta octanagem	-0.905
+quarto arrumado	0.185
+bem-vindo convidado	0.163
+ir do inferno	-0.337
+dor nas costas	-0.937
+Reserva	0.127
+vestir molhado	-0.712
+navio de placa	0.681
+Mantenha a tecla	0.686
+rolo de pedra	0.235
+autocomplacente	0.133
+Mesquita	0.675
+barraco	0.969
+falar dos outros	0.956
+chocalho	0.678
+Acalme-se	0.224
+compassivo	-0.26
+colmeia	-0.726
+veredicto	-0.231
+cansado de	-0.416
+piquete	-0.14
+Honore	0.98
+enamoredness	0.176
+languidez	-0.236
+convite	0.132
+poke	-0.611
+descer	-0.223
+exacerbar	-0.762
+como esporte	0.877
+angustiante	-0.208
+melancolia	-0.221
+receber carta	0.589
+pessoa quer	0.624
+fulgurant	-0.485
+pegar o futebol	0.968
+host	0.137
+fazer chamada de telefone	0.674
+avaro	-0.279
+repelir	-0.402
+decapitar	-0.942
+som feliz	0.107
+perigo	-0.549
+Presidente bush	-0.144
+bem-disposto	0.227
+noite de sexta-feira	0.728
+apreensivo	-0.524
+manipular	-0.724
+ficar velho	-0.165
+contentamento	0.282
+como menino	0.88
+ir mergulhar	0.686
+matar outra pessoa	-0.102
+levantar o inferno	0.876
+alegremente	0.303
+terminar a tarefa	0.382
+Nutrir	0.422
+quer relaxar	-0.293
+dinheiro suficiente	-0.415
+fruta seca	0.294
+arranjo	0.262
+nark	-0.755
+gritar a voz superior	0.963
+porta de cunha	0.592
+furiosamente	-0.748
+liberdade de pensar	0.89
+vestir o armazenamento	0.134
+peido	0.183
+fadiga	-0.232
+fomentar	-0.299
+querem bem	0.176
+pessoa velha	0.107
+Irritado	-0.755
+ninhada	-0.318
+vender vegetais	0.679
+desmoralizar	-0.223
+snorkel	0.965
+companhia do amor	0.686
+manter em segredo	0.168
+dinheiro ganho	0.163
+Bluetooth	0.237
+agravada	-0.762
+especial	0.14
+entretenimento	0.743
+confessar	-0.105
+pente de cabelo	0.29
+desejo de entreter	0.426
+colesterol elevado	-0.827
+amante da paz	0.399
+causa	-0.124
+dia de idade	0.131
+executar o office	0.134
+humilhante	-0.224
+fazer cara	0.161
+hostil	-0.431
+unwant	-0.782
+pai de amor	0.979
+Heartsease	0.399
+enlouquecida	-0.739
+dar dinheiro	0.117
+qualidade	0.366
+destrutivo	-0.413
+privacidade	0.387
+sentir-se orgulhoso	0.302
+se sentir melhor	0.321
+punir	-0.36
+exultingly	0.326
+venerar	0.437
+boa vontade	0.217
+fadiga ocular	-0.364
+obter o furo	-0.345
+bom pai	0.971
+corte de papel	-0.856
+tormento	-0.753
+necessidade	0.494
+gosto ruim	-0.148
+muitos povos	0.965
+encantamento	0.212
+ouvir piada	0.105
+construir cidade	-0.158
+dia do bolo	0.131
+quase	0.295
+repentantly	-0.354
+Jesus crucificado	-0.238
+AWE	0.616
+urn	0.668
+chateado	-0.478
+subir a montanha	0.296
+surpreendente	0.676
+penitente	-0.354
+medo de escuro	0.686
+trazer felicidade	0.616
+molestar	-0.47
+inveja	-0.282
+pneu	-0.156
+vencedor	0.379
+sente-se praia	0.971
+gratify	0.215
+anos	0.144
+opressivamente	-0.135
+ruminativa	-0.288
+bom tempo	0.514
+fazer dinheiro	0.12
+anunciar produto	0.969
+pregar	-0.544
+imigrante	-0.468
+desesperado	-0.28
+Adorai a Deus	0.249
+comer beber	0.13
+ajuda amigo	0.685
+horrivelmente	-0.415
+tendem	0.536
+malabarismos	0.307
+openhearted	0.187
+salto trampolim	0.112
+tempo ao vivo	0.387
+feliz	0.278
+consolo	0.303
+monstruosamente	-0.415
+admitir	0.21
+deixar de fora	-0.944
+prevenir acidentes	0.12
+detestavelmente	-0.396
+tempo frio	-0.191
+baixa temperatura corporal	0.202
+cantar junto	0.27
+banda de rodagem	0.29
+pessoa violenta	-0.119
+polca	0.286
+diversidade	0.896
+conservar energia	0.132
+consulte Visualizar	0.184
+intimidar	-0.777
+melhorar-se	0.686
+sombreness	-0.351
+carta aberta	0.6
+desenhar imagens	0.667
+se sentir bem-se	0.449
+animar	0.279
+captura	0.201
+sentir dor	-0.659
+por que acontecem	-0.115
+vestir secador	0.59
+Partido	0.174
+gather festivo	0.125
+quarto fresco	0.24
+bombeiro	0.968
+efeito	0.112
+desanimado	-0.274
+Mago	0.295
+contracheque	0.118
+flummox	0.674
+bem	0.32
+sedentos	0.174
+deslocar-se	0.109
+Welt	-0.127
+ferir a pessoa	-0.106
+gladsomeness	0.287
+idade madura ao vivo	0.965
+enlouquecer	-0.945
+maliciosamente	-0.501
+trepidly	-0.439
+droga ruim	-0.854
+destino	0.21
+escolher Presidente	0.189
+plano de bordo	0.588
+uncheerfulness	-0.235
+assuasive	0.339
+perda	-0.311
+motivo	0.189
+futuro do passado	0.143
+gosto	0.191
+animar	0.279
+faca de facada	-0.848
+desamparo	-0.236
+untune	-0.15
+instinto	0.681
+liberdade	0.506
+boate	0.304
+dizer obrigado	0.488
+dumfounded	0.674
+Mountain dew	0.151
+vestir a mancha	-0.786
+vencer batalha	-0.103
+enragement	-0.747
+Alegrai-vos	0.35
+valor do pagamento	0.119
+tornar-se famoso	0.295
+estudo da escola	0.963
+Elate	0.279
+fazer amigo feliz	0.883
+perigosos	-0.188
+vestir de ajuste	0.456
+mau cheiro	-0.675
+subjetiva	0.182
+ganho	0.339
+afligir-se	-0.361
+cabelo grosso	0.673
+gleefulness	0.313
+limite	-0.114
+comer amigo	-0.569
+universal	0.214
+Erie	-0.178
+dor nas costas	-0.306
+ofensivo	-0.389
+realizar a cirurgia	0.289
+casa grande	0.969
+bruto fora	-0.405
+surpreendente	0.675
+punir o crime	0.679
+animosidade	-0.418
+amigos	0.885
+cabelo longo	0.178
+corte de cabelo ruim	-0.856
+becharm	0.212
+dia da terra	0.165
+ignorante	0.97
+realmente bom	0.533
+protesto	-0.116
+amor pessoa	0.41
+bom humor	0.246
+camarada	0.215
+comer veneno	-0.772
+Desculpe	-0.348
+Sway	0.103
+pagar o imposto	-0.714
+viver a vida boa	0.374
+resgate	0.963
+appal	-0.4
+ficar melhor	0.146
+mal-entendido	-0.131
+parar o trabalho	0.892
+roubado	-0.175
+afetam	0.166
+pedir em casamento	0.326
+Lamentavelmente	-0.421
+gosta de sexo	0.974
+Comece a luta	0.592
+belo dia	0.511
+sofrer tolo	-0.945
+Rock roll	0.123
+encontrar companheiro	0.382
+Visite relativo	0.292
+Conniption	-0.721
+sequestro	-0.811
+Nee	0.102
+hatefully	-0.357
+acalmar a mente	0.578
+instalar janela	-0.627
+roer as unhas	-0.341
+incendiaram	-0.86
+atarraxamento	0.106
+computador novo	0.972
+agir	0.304
+saber o tempo	0.299
+festa do bolo	0.131
+vela de gelo	0.113
+campanha	-0.266
+moral	0.418
+calma	0.358
+sobreviver	0.287
+homem gay	0.677
+Ver agora	0.711
+Verruga	-0.837
+avisar	-0.131
+chorar ajuda	0.677
+Qualm	-0.286
+unha limpa	0.971
+gasolina	0.239
+dar	0.321
+envolvem	0.322
+frase completa	0.969
+detesto	-0.376
+ataraxis	0.399
+sate	0.963
+lealdade	0.64
+acho que muitas vezes	-0.899
+pendurar a corda	-0.106
+pridefulness	0.143
+inatividade	-0.161
+tentativa de	0.177
+terceiro	0.115
+eletrizante	0.41
+operar	0.41
+despondently	-0.249
+desamor	-0.505
+amorosidade	0.171
+Enviar convite	0.128
+picada de abelha	-0.86
+pessoa ler	0.124
+melhor	0.578
+choque feliz	0.109
+prazeroso	0.117
+comida suficiente	0.685
+fraqueza	0.225
+desempregados	-0.746
+terapia	0.293
+coceira	-0.515
+tirar a vida	-0.116
+objeto pontudo	-0.112
+bom professor	0.889
+dar dinheiro	0.122
+no ano passado 100	0.598
+assado	0.115
+escalada de rocha	0.682
+Bond	0.128
+com calma	0.339
+desafio mental	0.956
+apagar o quadro-negro	0.969
+otimista	0.168
+estudo animal	0.971
+revoltante	-0.416
+masculino feminino	0.122
+ojeriza	-0.376
+surpresa	0.767
+instigar	-0.414
+casa do enfermeiro	0.598
+assistir jogo de futebol	0.686
+heartlessness	-0.432
+luta	-0.722
+uma maneira de	0.303
+dolourous	-0.238
+ir caminhar	0.964
+tomar drogas	-0.717
+Enfurecido	-0.739
+impertinente	-0.909
+tranquilizar	0.18
+passadeira de correr	-0.847
+discompose	-0.15
+pasmo	0.674
+lavagem cerebral	-0.167
+odor corporal	-0.932
+vida melhor	0.967
+sorrateira	0.292
+daunt	-0.391
+sintoma	-0.139
+comprar presentes de outros	0.121
+ansiedade	-0.715
+comer carne de porco	-0.165
+cruelmente	-0.454
+amargura	-0.321
+permanecer amigo de toque	0.681
+bobo	0.297
+o que quer	0.979
+chocalho	0.134
+huffish	-0.577
+muito dinheiro	0.962
+pagar taxa	0.955
+parecem	0.192
+vazio	-0.39
+San diego	0.97
+Large-hearted	0.187
+vidro quebrado	-0.551
+desmoralizante	-0.204
+ser pessoa	0.588
+fazer vidro	0.11
+viagem de culpa	-0.354
+alarme	-0.388
+Mantenha o cigarro	0.97
+irritado	-0.755
+comer comida de gato	-0.124
+visitante	0.297
+sonda	-0.101
+comida de conforto	0.676
+maravilhosamente	0.678
+explicar	0.184
+acne	-0.942
+aleijado	-0.944
+Desaparece	-0.87
+olhar esperto	0.19
+mournfulness	-0.363
+regozijando-se	0.298
+warmheartedness	0.167
+meditar	0.324
+livrar de provas	-0.111
+ganhar	0.147
+discoteca	0.29
+deprimido	-0.331
+ruim	-0.311
+baixinho	0.49
+jogar computador	0.291
+aprender outra cultura	0.244
+humanos importantes	0.126
+encantar	0.212
+santum	0.141
+fascinante	0.212
+dislikable	-0.508
+softhearted	0.472
+melancolicamente	-0.363
+meditativa	0.288
+uma vez anual	0.131
+melhor outros	0.405
+cortar a pele	-0.717
+stand alone	0.962
+incerteza	-0.234
+pessoa importante	0.173
+contra	-0.664
+huffily	-0.745
+reunindo	0.123
+absorver a umidade	0.686
+fazer promessa	0.202
+riled	-0.755
+gato de taxa	0.971
+pneu furado	-0.611
+interesse	0.117
+linda	0.342
+Idol	0.183
+Rejuvination	0.23
+se matar	-0.686
+analfabetismo	-0.724
+feio	-0.686
+perto de	0.148
+puro	0.284
+mau gosto	0.682
+se recuperar	0.253
+vergonha	-0.577
+Amour	0.561
+Concordo outros	0.979
+Belle	0.319
+jogar neve	0.963
+nomes	0.303
+ciumento	-0.978
+oportunidade	0.412
+assinam acordo	0.969
+mudar a mente	-0.128
+herdar	0.204
+etiqueta	0.435
+queda de deslizamento	-0.525
+apenas	0.17
+estrangeiro	0.971
+invejoso	-0.285
+identificar	0.254
+Sim	0.19
+sei que acontecem	-0.114
+erro correto	0.286
+areeiros	-0.12
+Aproveite o dia	0.402
+opt	0.177
+flor de cheiro	0.108
+comida estragada	-0.843
+sonhador	0.236
+prolongar a vida	0.205
+para baixo na boca	-0.331
+dignidade	0.976
+medo morte	-0.677
+covardia	-0.158
+lidar	0.204
+Royal flush	0.969
+simpatizar	0.267
+surdos	-0.648
+idosos	0.124
+Ver escuro	-0.668
+repelindo	-0.416
+melancolicamente	-0.363
+joylessness	-0.249
+pessoa do furo	-0.86
+algo a ver	0.1
+chantagem	-0.951
+repelente	-0.416
+confronto	-0.782
+Keeper	0.882
+invertebrado	-0.288
+Super	0.367
+pressentimento	-0.432
+caffine	0.166
+heavyheartedness	-0.249
+crucifixo	0.171
+pessoa ouvir	0.29
+sala de canto	0.681
+para baixo	-0.234
+assustado	-0.463
+nervosa	-0.189
+aborrecimento	-0.972
+incrivelmente	0.678
+morrer de fome	-0.128
+ganhar medalha	0.362
+sei que quer	0.147
+malignidade	-0.379
+Localizar livro biblioteca	0.964
+protestante	0.178
+Volte	0.342
+bom amante	0.906
+ato insensato	0.966
+rebanho de ovelhas	0.14
+fazer feliz	0.62
+antraz	-0.86
+fraterna	0.214
+lugar de religioso	0.183
+do Excel	0.968
+Grabby	-0.279
+fato de estado	0.967
+pedir a Deus	0.268
+tardia	-0.936
+descontentamento	0.133
+Lago de peixes	0.956
+Handicap	-0.887
+indisposto	-0.296
+Prepare-se	0.19
+fim de semana	0.734
+covetously	-0.285
+pedido de desculpas	-0.104
+fazer para fora	0.157
+dejectedness	-0.241
+morte de facada	-0.258
+comer juntos	0.878
+cozinha suja	-0.94
+bombear o sangue	0.204
+Skip	0.296
+aliviar	0.268
+comer salada	0.675
+casa legal	0.157
+gritar surpresa	0.105
+leite azedo	-0.884
+dependem	0.271
+semana de dia de th	-0.884
+prato sujo	-0.506
+nojento	-0.416
+pessoa como	0.613
+surpreender	0.722
+sereno	0.366
+livro bom de ler	0.322
+partilhar ideia	0.118
+boa piada	0.244
+Dim	-0.688
+democrata	0.675
+sangria	-0.609
+inesperado	-0.202
+pessoa cantar	0.264
+carro de corrida	0.884
+astonied	0.677
+favor	0.432
+avareza	-0.279
+Wail	-0.107
+Henrique	0.286
+loathly	-0.416
+barraca de campo	0.674
+Detestamos	-0.357
+engano	-0.472
+terremoto	-0.75
+Abra a porta do carro	0.284
+ficar com raiva	-0.239
+misocainea	-0.371
+ganhar muito dinheiro	0.964
+manter vivo	0.342
+massagem	0.319
+eleger	0.165
+sorrowfulness	-0.363
+Akodon	-0.238
+acertar o taco de beisebol	-0.944
+riqueza	0.14
+renan lima	0.411
+Visite	0.291
+conector	0.166
+Peru	0.664
+se sente melhor	0.349
+tese completa	-0.327
+cremar	0.676
+atrair o companheiro	0.124
+cabisbaixo	-0.331
+Olive	-0.26
+jogar golfe	0.886
+gripe	-0.858
+falha classe	-0.876
+machucar outra pessoa	-0.795
+aliviar a dor	0.971
+louco	-0.12
+Foder	0.296
+permanecer mesmo	-0.917
+domingo	0.717
+comer o chip	-0.821
+jurado	-0.112
+fazer armar	0.963
+passeio de bicicleta de trabalho	0.963
+louco	-0.796
+trazer para casa	0.963
+aviador	0.669
+cicuta	-0.118
+sentar comer	0.676
+pena de morte	-0.151
+enganar	-0.124
+gesto	0.174
+quase	0.158
+se vingar	-0.178
+danos humanos	-0.94
+Rabino	0.162
+estabilidade	0.356
+Shake	-0.219
+Obrigado	0.326
+tearfulness	-0.238
+percevejo	-0.798
+mutilar	-0.757
+tempo de sono	0.363
+cativado	0.212
+idolatram	-0.437
+comer bem	0.325
+excitar	0.326
+besteira	-0.85
+possuem	-0.282
+pessoa do plural	0.686
+febril	-0.279
+verdadeiras	0.649
+fazer o melhor lugar do mundo	0.43
+descuidado	-0.122
+incomodadas	-0.202
+bom gosto	0.21
+Low-spiritedness	-0.241
+dominar	-0.865
+corrigir	0.203
+alimentos conservados em estoque	0.674
+elogio de peixe	0.686
+preencher requerimento	0.368
+tranquilidade	0.285
+Coffee-break	0.295
+meditando	-0.288
+contente	0.301
+jolliness	0.307
+sensacional	-0.408
+caixa registradora	-0.193
+arrependido	-0.36
+pacificamente	0.399
+Natividade	0.113
+extrovertido	0.886
+comer cachorro	-0.907
+cabelos secos	0.664
+derramamento de sangue	-0.862
+tomar banho frio	-0.663
+cozinha limpa	0.36
+dizer a verdade	0.673
+perna quebrada	-0.836
+dolour	-0.362
+corrida de drag	0.684
+orgia	0.969
+baixa auto-estima	-0.768
+lamber	0.182
+tornar-se inteligente	-0.247
+reclamar o mundo do estado	0.6
+obter resposta	0.8
+pessoa feliz	0.246
+membro quebrado	-0.859
+tornar-se relaxar	-0.19
+comediante	0.367
+sulk	-0.303
+gramado verde	0.674
+tornar-se doente	-0.848
+Alegre	0.279
+isolar	-0.809
+luz de vela	0.17
+recebimento de	0.596
+dor	-0.153
+insanidade	-0.255
+ensaio	0.293
+medo do palco	-0.805
+loja de sapatos	0.669
+surpreendente	0.678
+Angst	-0.355
+cortar o dedo	-0.248
+preciso	0.972
+elevar	0.117
+terapeuta	0.686
+folheava	-0.249
+pluma	0.143
+Tesouro	0.296
+novidade	0.135
+espiritualidade	0.313
+ater-se	0.676
+entusiasmo	0.169
+encontrar o parceiro	0.182
+estrela do rock	0.141
+Obter	0.536
+muitos humanos	0.688
+desligar o computador	0.286
+se preocupar	-0.208
+honestidade	0.699
+pote de fumo	0.304
+maravilha	0.634
+satisfazendo	0.26
+ornamento	0.102
+forma	-0.492
+pele rugas	-0.574
+pessoa ir a cadeia	-0.219
+Use a ferramenta	-0.122
+apaixonante	0.212
+calor	0.165
+Tulsa	0.971
+disparar a arma	-0.901
+entre	0.882
+impressionar a pessoa	0.349
+Spank	-0.279
+possessivo	0.597
+Convide um amigo sobre	0.137
+incomum	-0.202
+submundo	-0.183
+estimulam a mente	-0.221
+pessoa fria	0.163
+sentir amor	0.503
+desconcerto	-0.15
+sarampo	-0.537
+atividade social	0.123
+biblioteca de estudo	0.956
+Wake	0.361
+tempo de festa	0.178
+Rugby	0.285
+approbative	0.226
+aprender a nova palavra	0.271
+percorrer de parede	-0.943
+mente de paz	0.499
+oxigenar o sangue	0.213
+sincero	0.916
+Get ferir	-0.163
+trilha de caminhada	0.68
+turista	0.286
+diferentes	0.286
+Crescer	0.154
+Heartbreak	-0.789
+disquieted	-0.208
+ficar alto	-0.13
+escape	-0.159
+ASSIST	0.253
+companheiro	0.568
+desvio	0.128
+preparar a morrer	-0.152
+cochilar	-0.162
+resolver	0.132
+carro parte	-0.528
+repulsivo	-0.396
+espantado	0.677
+falta de energia	-0.946
+dinheiro	0.139
+treinar o animal	0.669
+me sinto mal	-0.568
+exemplo de conjunto	0.401
+praticar desporto	-0.796
+stun	0.377
+acionador de partida pergunta	0.171
+surprisedly	0.678
+Sinta-se feliz	0.436
+salvar a terra	0.211
+espanto	0.662
+renda	0.138
+motosserra	-0.106
+apaixonado por em conta	0.167
+Grim	-0.318
+sorriso	0.281
+aterrorizar	-0.889
+acabam	0.287
+servidor	0.364
+acho que o doente	-0.138
+gratifyingly	0.26
+cumprir as	0.288
+Clintonite	-0.303
+abashment	-0.118
+fazer grandes	0.168
+idiota	-0.144
+bruto	-0.473
+confirmar	0.103
+fondue	-0.79
+pouco dinheiro	-0.367
+pioneiro	0.97
+alegrar	0.281
+carrinho de cachorro-quente	0.892
+Despeje em vidro	0.882
+fato de aprender	0.114
+Giggle	0.3
+pode ganhar	-0.101
+tease	-0.43
+Roar	0.124
+check-up	0.124
+rir de piada	0.308
+Sinta-se mal	-0.105
+pagamento em dinheiro	0.144
+velhice	0.122
+sentir dor	-0.341
+hesitance	-0.465
+Gore	-0.111
+invejar	-0.299
+Dica de gota	0.964
+carinho	0.741
+pacote de email	0.966
+chamar ajuda	-0.278
+preenchimento	0.173
+pensativo	-0.288
+arrepender-se	-0.356
+amigo de onda	0.893
+matar gato	-0.108
+importante	0.47
+tackle	-0.162
+rede	0.298
+rancor	-0.407
+esquecer	0.118
+vil	-0.401
+alergia	-0.702
+expandir o horizonte	-0.162
+jogar ping-pong	0.29
+tranquilidade	0.408
+sentir do furo	-0.365
+fazer teste	0.698
+despreocupado	0.332
+queda	-0.108
+fim de guerra	0.159
+exultante	0.276
+ditadura	-0.857
+benevolente	0.187
+sentir aliviar	0.897
+estupefatos	0.599
+disconsolateness	-0.202
+produtos frescos	0.68
+boa forma	0.891
+Agora	0.112
+cena de imagens	0.968
+homenagem	0.33
+atingir meta	0.97
+manter-se jovem	0.591
+favoravelmente	0.213
+luto	-0.362
+empatia	0.709
+estupor	-0.485
+primeira base	0.952
+inimizade	-0.431
+manter seco	0.591
+remover lasca	0.686
+tomar porcaria	-0.766
+aumentar o dinheiro	0.322
+puke	-0.649
+comemorar wed	0.126
+Jubilant	0.308
+dor nas costas	-0.852
+escalonamento	0.675
+misogamy	-0.365
+particular	0.138
+trabalhador	0.295
+alta estima	0.126
+coquetel	0.287
+Dazed	-0.377
+abandonar	-0.858
+comparar	0.186
+Compartilhar	0.383
+tornar inoperante	-0.104
+dizer a palavra	0.963
+Robinson	-0.217
+Sirene	0.113
+dirigir de forma imprudente	-0.864
+estranho	-0.13
+conforto	0.242
+Desfrute de trabalho	0.971
+Mexa	-0.398
+mesmo para fora	0.88
+catapora	-0.946
+muita raiva	-0.107
+conselhos	0.185
+ensinar aos outros	0.2
+rancoroso	-0.492
+induzir em erro	-0.857
+responsabilidade	-0.514
+prazer	0.229
+reciclar papel	0.669
+desagradar	-0.757
+Surtar	0.154
+sincero	-0.303
+sofrer	-0.181
+emocionante	0.41
+clamor	0.115
+desprovido	-0.362
+triunfante	0.306
+bom	0.544
+acidente de carro	-0.805
+desvio	-0.85
+manter-se frio	-0.105
+reduzir o stress	0.278
+Oxford	0.676
+queixar-se	-0.158
+facilmente	0.28
+fumo cigarro	0.683
+expressa alegria	0.29
+todo mundo sabe	0.179
+dano	-0.366
+dinheiro dado	0.14
+brokenheartedness	-0.362
+ternura	0.474
+melancolia	-0.351
+apresente-se	0.204
+bela casa	0.969
+desencorajando	-0.264
+orar a Deus	0.235
+desejo ajuda	0.904
+dificuldade	-0.801
+Disneyland	0.289
+extasiando	0.212
+verbo de substantivo	-0.148
+permanecer seco	-0.212
+Profeta	0.686
+unassertively	-0.463
+loja da mente	0.97
+comer bolo	0.24
+Aproveite a vida	0.539
+ano da temporada	0.103
+Big bang	-0.887
+chorar	-0.187
+dinheiro solto	-0.925
+explicar os detalhes	0.68
+barulhento	0.513
+favoravelmente	0.213
+amar outra pessoa	0.312
+acredito que	0.386
+valor outros	0.975
+conseguir casar	0.371
+lamentar	-0.267
+abrigo	0.967
+pavio de cera	0.107
+declarar	0.16
+desenfreada	0.172
+pleitear	-0.172
+sem medo	0.172
+junk food	-0.311
+Considere bonito	0.292
+evitar a gravidez	0.179
+ar da bomba	0.17
+maioria	0.973
+comer pipoca	-0.141
+papel de sinal	0.153
+sereno	0.462
+usar terno	0.284
+encanto	0.18
+horas extras de trabalho	-0.941
+unemotionality	0.183
+dolefully	-0.424
+caridade	0.187
+festal	0.154
+encontrar culpados	-0.876
+fina	-0.251
+encontrar	0.189
+produto de mercado	0.969
+nervoso	-0.679
+infeliz	-0.406
+auto-depreciativo	-0.214
+relaxar a mente	0.114
+dar ajuda	0.539
+sentimentos de culpa	-0.354
+coragem	0.29
+roubo	-0.821
+dificuldade para respirar	0.673
+jogar frisbee	0.964
+lividly	-0.756
+ler quadrinhos	0.31
+individuais	0.897
+comer demais	-0.67
+concurso	0.126
+perder compromisso	0.109
+LACHRYMOSE	-0.238
+por favor	0.616
+doar	0.896
+intimidados	-0.428
+complemento	0.971
+Barrack	0.199
+sei como	0.122
+bolo de vela	0.131
+leveza	0.279
+puto	-0.755
+nervosismo	-0.194
+anual	0.144
+despiteful	-0.492
+tripudiar	0.14
+abastecimento	0.251
+simples	0.29
+sufocar	-0.607
+karma ruim	-0.81
+matar a bebida	0.118
+Appallosa	-0.4
+tempo feliz	0.479
+Inglaterra de rainha	0.152
+gay	0.149
+creme de queijo	0.909
+crueldade	-0.413
+viajar para o exterior	0.971
+GAL	0.342
+inquieto	-0.198
+pele macia	0.303
+cair fora amor	-0.945
+bem conhecido	0.554
+vida longa ao vivo	0.336
+calmaria	0.339
+Astound	0.677
+rancor	-0.321
+awestricken	0.677
+jogar voleibol	0.681
+enxaqueca	-0.943
+comer buceta	0.304
+desonra	-0.944
+Data Nascimento	0.173
+Ruth	-0.267
+dente falso	0.682
+coceira	-0.715
+bom filme	0.166
+pico de montanha	0.97
+vingativo	-0.492
+muito pessoa	0.285
+desonestidade	-0.119
+impassiveness	-0.183
+prazer sexual	0.329
+paz tranquila	0.164
+ir a WC	0.287
+bravura	0.634
+snap	-0.484
+Levante	0.155
+cum	0.164
+sensacional	0.708
+plaintiveness	-0.363
+oferta	0.26
+Boquete	0.972
+Monkey wrench	-0.883
+pensar logicamente	0.302
+trazer de volta	0.221
+bater	0.29
+defeito	-0.946
+miffed	-0.755
+tolo	-0.947
+absolutamente	0.156
+mash de batata	0.132
+vela	0.161
+Pew	0.184
+Mostrar o amor	0.635
+hostil	-0.508
+quarto principal de sono	0.106
+encontrar o amor	0.979
+mal a outra pessoa	0.683
+UNASSERTIVE	-0.463
+provar o ponto	0.592
+porcaria	-0.785
+arrefecer	0.347
+decidir o voto	0.966
+formatura	0.103
+Depois de passado	0.139
+cair da escada de voo	-0.588
+assediado	-0.755
+levemente	0.342
+bolo presente	0.155
+masterbate	0.168
+furo de agir	0.672
+entediado	-0.366
+merry go round	0.29
+muito sexo	0.981
+companheiro ao longo da vida	0.971
+jogar boneca	0.686
+fazer a pessoa feliz	0.411
+Repulse	-0.396
+vida longa e feliz	0.952
+artista de circo	0.167
+carro novo	0.313
+adorando	0.177
+reunir berry	0.969
+confinar	-0.819
+vencer	0.295
+matar pessoa	-0.101
+amorousness	0.176
+trabalho perigoso	-0.86
+gloatingly	0.138
+downcast	-0.331
+agitar-se	-0.417
+se excitar	0.726
+corrigir problema	-0.112
+Weltschmerz	-0.366
+Rock baby	0.971
+ir a cidade	0.683
+destino de unidade	0.961
+alegria	0.326
+jubilancy	0.326
+Iluminismo	0.223
+nervosismo	-0.225
+entorpecente	0.675
+rima	0.123
+comer lanche	0.145
+tornar-se pobre	-0.939
+organizar	0.208
+choque	-0.115
+hoje	0.149
+sistema complexo	0.68
+viver sozinho	-0.933
+outra pessoa	0.395
+fraquinho	0.166
+passar o exame	-0.114
+outros	0.667
+cantar	0.31
+irritante	-0.755
+Extreme	0.131
+perguntar se casar	0.315
+talento	0.296
+a pessoa	0.132
+Tente duro	0.362
+tristes	-0.36
+dia da semana	-0.156
+honra	0.595
+abominate	-0.376
+Blizzard	-0.647
+fazer tear	-0.184
+humor do bom senso	0.969
+Dudgeon	-0.746
+tarefa repetitiva	-0.852
+-se	-0.945
+repugnantemente	-0.416
+humildade	-0.224
+desanimados	-0.331
+tempo de pensar	0.365
+malevolamente	-0.379
+destruir provas	-0.126
+invejosa	-0.285
+pathos	-0.267
+alegria	0.152
+louvor	0.611
+cabelo estilo	0.67
+busca	0.228
+tocar piano	0.965
+languorously	-0.236
+cumprimento	0.192
+nariz limpo	0.361
+fazer patchwork quilt	0.309
+educar-se	-0.265
+desprezo	-0.529
+pessoa chateada	-0.418
+sinto frio	-0.578
+timidez	0.118
+pecado mortal	-0.11
+correr risco	0.202
+filosofia	0.188
+joylessly	-0.249
+blefe	-0.106
+ligar o ar condicionado	0.962
+pessoa gananciosa	-0.314
+amor expresso	0.602
+Ignite	-0.395
+abatida	-0.236
+casamento	0.273
+programador por escrito	-0.906
+arrependido	-0.354
+festa anual	0.131
+Fiesta	0.125
+bondade	0.747
+alienado	-0.505
+conhecer pessoa	-0.769
+Museu da guerra	0.686
+conviver	0.401
+internar	-0.861
+zestfulness	0.171
+operador de telemarketing	-0.214
+ganhar dinheiro	0.121
+irritado	0.738
+defender	0.205
+companheiro	0.368
+Mensageiro	0.965
+tornar-se deprimir	0.964
+nova vida	0.589
+com carinho	0.172
+casar com a esposa	0.975
+Amour propre	0.161
+tempo fora	0.54
+esclarecer	0.166
+truque de magia	0.155
+pular corda	0.893
+time favorito de alegria	0.525
+afligir-se	-0.362
+triste	-0.421
+comer alimentos fora da placa	0.68
+executar scissor	-0.143
+dinheiro referem-se	0.134
+envergonhado	-0.143
+causa sofrer	-0.943
+fantoche	0.29
+levar de volta	0.209
+Infelizmente	-0.428
+auto-estima	0.97
+Lamentavelmente	-0.421
+Jingle	0.247
+cor verde	0.151
+fluxo de peixes	0.97
+casa queimar para baixo	-0.799
+pedir desculpas	0.595
+frio quente	-0.869
+triste	-0.351
+amante	0.369
+confortavelmente	0.303
+pitiable	-0.406
+Ver filme	0.68
+morrer dolorosamente	-0.697
+evitar a responsabilidade	-0.124
+perigo de ferimento	-0.121
+gravidade	-0.301
+incentivo	0.331
+Mix	0.126
+provocou	-0.762
+dinheiro do banco	0.96
+Hospede-se	0.878
+pagamento	0.13
+prato limpo	0.165
+desamor	-0.916
+entusiasmado	0.169
+pedido	0.264
+Partido inesperado	0.509
+se entreter	0.665
+deject	-0.223
+vengefulness	-0.492
+choroso	-0.238
+traidor	-0.618
+bater a porta	0.36
+controle de tempo	-0.394
+quebra recorde	0.958
+intrepidly	0.172
+nascimento de Jesus	0.111
+inferior	-0.847
+regularmente	0.958
+prosperidade	0.544
+batida	0.401
+colega de trabalho	0.285
+Guerra Global termonuclear	-0.278
+escalar da rocha	0.97
+passar o gene	0.293
+mercifulness	-0.105
+acho que passado	0.291
+imploro	0.247
+sorvete	0.958
+sente-se computador	0.683
+experimentar a alegria	0.886
+progresso	0.164
+perder o amigo	-0.861
+tristeza	-0.409
+contar segredo	0.948
+arrependido	-0.417
+placidamente	0.366
+cheiro de peixe	-0.918
+opcional	-0.294
+empatia	0.453
+piada	0.109
+pode aprender	-0.161
+assegurar	0.18
+provocando	-0.755
+feliz triste	0.974
+rir	0.218
+fraternal	0.214
+tremendo	0.678
+bilhete de velocidade	0.265
+pele vermelha	-0.352
+morrer de gato	-0.868
+sente-se sol	0.666
+proposta	0.269
+obter conhecimento	0.778
+afirmar	-0.943
+Leia a cama	0.686
+remorsefully	-0.36
+poke pin	-0.809
+valor	0.122
+pessoa junto	0.119
+sensacionalista	-0.408
+demonstrar afeto	0.6
+frustrante	-0.764
+lassitude	0.195
+conhecer outra pessoa	0.891
+conta de telefone	0.962
+quase	0.121
+criar destruir	-0.1
+agressividade	-0.426
+parceiro	0.373
+perder a mente	-0.847
+olhar estrelas	0.114
+swordfishdatum	-0.224
+Anime-se	0.351
+Yoga	0.287
+queimaduras solares	-0.672
+segurar	-0.104
+Centro	0.035
+desorientado	-0.505
+pensamento	0.192
+lovesome	0.148
+jogar bilhar	0.29
+nova era	0.133
+misfortunate	-0.406
+dudgeon alta	-0.746
+deveria	0.542
+pagamento em dinheiro	0.128
+paz interior	0.972
+como	0.577
+sucesso	0.336
+queimar a casa	-0.567
+Audible	0.111
+autoridade	0.139
+falar de telefone	0.97
+encolher de ombros	0.174
+festa secreta	0.109
+aconchegar	0.132
+pessoa culpada	-0.107
+tenso	-0.189
+hospitaleiro	0.136
+envelhecemos prematuramente	0.967
+consumismo	0.182
+pacote de navio	0.967
+certeza	0.6
+preen	0.137
+estima	0.976
+confiante	0.969
+saco de mantimento	0.968
+medo extremo	-0.115
+servir cerveja	0.686
+condensar	-0.223
+crueldade	-0.454
+plaguy	-0.755
+marca	0.613
+Praga	-0.94
+bum	-0.794
+competitivo	0.367
+desejo	0.462
+subir topo	0.971
+boa pessoa	0.425
+melhorar o mundo	0.148
+atleta profissional	0.961
+obter total	0.171
+dizer adeus	0.307
+ano vivo	0.145
+chafurdar	0.316
+tornar-se feliz	0.256
+revoltantes	-0.416
+pesquisa internet	0.957
+fato de reunir	0.187
+imigrante ilegal	-0.671
+vermes	-0.106
+kick ass	-0.764
+Suspense	-0.341
+engate	0.218
+apito feliz sintonia	0.967
+Frostbite	-0.944
+odeio	-0.287
+mal	-0.113
+vaca de leite	0.962
+quebra osso	-0.123
+educar outros	0.362
+ativista	0.379
+orgulho	0.221
+fazer os outros felizes	0.536
+maravilhoso	0.678
+risco	-0.101
+desalento	-0.202
+harried	-0.755
+cadeira de dentista	0.884
+deixar de rake	0.312
+desfrutar de	0.305
+persuadir	-0.195
+transportar o material	0.675
+tornar-se impaciente	-0.45
+expressiva	0.301
+azul	-0.146
+Cristo	0.213
+assento de couro	0.291
+batido	-0.474
+liberdade	0.468
+conduta	0.415
+saldar	0.126
+socializar	0.296
+picada de cobra	-0.955
+humildade	-0.224
+conhecedor	0.968
+terrivelmente	-0.415
+poluir o ar	-0.947
+loja de pechincha	0.669
+pensador profundo	0.681
+felicidade	0.968
+inverno frio	-0.759
+Emprego de interesse	0.962
+luto	-0.548
+Excelente	0.499
+contrariou	0.167
+trabalho do Rush	0.971
+deve	0.45
+jocundity	0.312
+carro quebrado	-0.859
+pensar racional	0.162
+viciante	-0.163
+briga	-0.122
+partiu	-0.414
+anel do telefone de resposta	0.681
+aprender o fato novo	0.119
+osso quebrado	-0.388
+encontrar mulher	0.591
+garantia	0.256
+impostos elevados	-0.943
+Ter de	0.37
+artrite	-0.838
+nascido data	0.173
+argumento final	0.594
+bateu o rosto	-0.771
+combinar acima	0.968
+desfibramento	-0.224
+Ultimate	0.377
+dizer aos outros	0.194
+fazer sentir bem	0.405
+telefonema	0.125
+estrangular	-0.874
+filme visto	0.686
+torneio de xadrez	0.969
+em transe	0.212
+maltratar	-0.914
+sonho de resto	0.135
+habilidade de aprender	0.162
+doente	-0.944
+plano de aposentadoria	0.967
+dizer sim	0.306
+melancolia	-0.301
+encaminhar e-mail	0.686
+explodir	-0.568
+maravilhosa	0.678
+esqui cross-country	0.308
+bebida mortal	-0.118
+tempo de Natal	0.121
+celebridade	0.89
+calor excessivo	-0.855
+Alegre	0.152
+muito sono	0.97
+waffle	0.423
+comer batata	0.593
+dispiriting	-0.204
+deprimir	-0.7
+Deus	0.239
+celestial	0.232
+eterna	0.171
+festa anual	0.172
+Acrobat	0.122
+orelha de caixa	0.685
+ritual	0.243
+incentivando	0.167
+restringir	-0.862
+acusador de rosto	0.684
+claro acho que	0.958
+cheerless	-0.218
+euforia	0.274
+porcentagem	0.145
+encontrar a cozinha	-0.101
+encontrar dinheiro	0.515
+servir	0.169
+ponderando	-0.288
+oferecer consolo	0.233
+noite sem dormir	-0.937
+misericordiosamente	-0.105
+mirth	0.313
+Data nascida	0.131
+pano	-0.701
+muito dinheiro	0.129
+decidir quer	0.29
+isolado	-0.502
+contar piada	0.299
+ouvir palestra	0.107
+estado da mente	0.355
+nojento	-0.416
+me sinto acordado	0.967
+descansar	0.232
+hipnotizar	0.374
+bebida limonada	0.308
+queimar a comida	-0.844
+Tratado	0.411
+fazer sexo	0.316
+agradecimento	0.165
+mosh pit	0.965
+inspirar	0.369
+wrathfully	-0.759
+disponibilidade	0.102
+progredir	0.964
+me sinto fraco	-0.112
+chivvy	-0.47
+nojo	-0.726
+cinzento	-0.943
+Valsa	0.106
+approbatory	0.226
+amianto	-0.896
+hostilidade	-0.562
+defletor	-0.674
+Apesar de	-0.529
+livro lido	0.287
+ansiosamente	-0.473
+Grand canyon	0.968
+leve toque	0.377
+perturbar	-0.208
+startle	-0.203
+divertir-se	0.966
+devoto	0.303
+censura	-0.941
+timidamente	-0.391
+pintura de rosto	0.102
+melhorar	0.448
+deusa	0.205
+Park place	0.969
+falha	-0.316
+verbo substantivo	0.216
+pagar o jantar	0.893
+desejo de morte	-0.167
+vexado	-0.755
+telefone de resposta	0.292
+sofrimento emocional	-0.162
+Barranquismo	-0.341
+beco escuro	-0.683
+Hitler	-0.114
+histericamente	-0.431
+amor de bezerro	0.176
+comprar doces	0.951
+dia de folga	0.641
+catch	0.12
+planador	0.965
+ficar acordado a noite	0.971
+viagem de trabalho	0.674
+menor	-0.224
+procedimento	0.324
+permitia	-0.354
+raiz em	0.279
+tornar-se frustrar	-0.167
+contrariado	-0.351
+comer rocha	-0.945
+desmoralizar	-0.223
+sugerir	0.351
+ferida	-0.484
+sentir remorso	-0.301
+desmaiar	-0.217
+perder a carteira	-0.345
+baixa expectativa	0.967
+prece	0.111
+tornar o erro	-0.459
+cair de escada	-0.94
+desemprego	-0.868
+exuberate	0.319
+cabelo molhado	-0.818
+humilhantes	-0.224
+Divirta-se	0.19
+Convide um amigo	0.133
+acontecimento inesperado	-0.109
+Bom dia	0.893
+de direita	0.104
+Roach	-0.222
+irritado	-0.755
+solto	-0.371
+levar o livro	0.677
+Dom	0.356
+zelo	0.177
+desonesto	-0.129
+superlativo	0.389
+ruthfulness	-0.363
+ampliar Horizonte	-0.266
+orgulhosamente	0.138
+habilidade de mestre	0.966
+descontentamento	-0.757
+pacificador	0.686
+alta classe	0.377
+grande momento	0.366
+terminar teste	0.36
+Natal	0.165
+desconto	0.19
+elating	0.279
+pessoa inteligente	0.126
+monstro de olhos verdes	-0.281
+ganhar o concurso	0.302
+ansiedade	-0.262
+obsceno	-0.396
+empreendedor	0.967
+sexo oral	0.546
+infidelidade	-0.196
+contar com	0.42
+chutar a bola	-0.169
+inquietude	-0.185
+lado quatro	-0.102
+demeaningly	-0.224
+teste de falha	-0.561
+satisfatoriamente	0.26
+humilhar	-0.805
+advogado	0.211
+pechincha	0.201
+rico	0.14
+sentir prazer	0.69
+chato	-0.755
+leveza	0.159
+escovar fora	-0.947
+desprezando	-0.409
+reconsiderar	-0.128
+doente de	-0.416
+tranquilizador	0.18
+grave	0.186
+intimidade	0.407
+filhinho	-0.223
+sentir raiva	-0.302
+roubar	-0.442
+brotherlike	0.214
+aiai	-0.147
+adjetivo	0.163
+pessoa rica	0.292
+corpo ferido	-0.114
+corrigir o cabelo	0.164
+ganhar riqueza	0.964
+vantagem	0.967
+comprar arma	-0.107
+pessoa plural	0.686
+saltar para fora da janela	-0.102
+masturbar-se	0.101
+Lembre-se de sonho	-0.935
+Fresco	0.383
+crueldade	-0.454
+sala de jogos	0.965
+Presidente da guarda	0.682
+provocador	0.967
+capaz de executar	0.96
+Sharp objeto	-0.106
+trabalho	-0.914
+reconfortante	0.26
+bater-se	-0.222
+irritado	-0.755
+Spire	0.159
+terminal de Aeroporto	0.685
+paz mundial	0.972
+arrecadar dinheiro	0.956
+divertido reunir	0.18
+entreter	0.515
+escuro colore	0.669
+vangloriar-se	0.162
+culpado	-0.668
+humor	0.255
+Fazer amor	0.287
+consulte o novo lugar	0.119
+contrito	-0.36
+se irritar	-0.755
+motim	-0.136
+altar	0.2
+Downhearted	-0.331
+sombrio	-0.351
+gosto bom	0.139
+levar para casa	0.178
+machucar a pessoa	-0.11
+riso	0.231
+passeio a cavalo	0.305
+sentir fome	-0.65
+expectante	-0.262
+anel do telefone	0.144
+desenvolver talentos	0.972
+Amor carinho	0.981
+provocar	-0.47
+procurar imagens	0.29
+pessoa e	0.97
+irracional	-0.103
+ficar frio	-0.101
+comovente	-0.362
+me sinto bem	-0.825
+leprechaun	0.68
+desanimador	-0.204
+dizer amor	0.305
+se juntam	0.165
+revisteiro	0.682
+fazer pessoa virada	-0.11
+olhos lacrimejantes	-0.181
+plausive	0.226
+usar o teclado	0.173
+fruta podre	-0.945
+estufar	0.198
+pedir ajuda	0.108
+programa de tv de fita	0.684
+dificuldade de obter	-0.274
+executar	0.19
+igualdade	0.897
+falar em voz alta	0.89
+fazer o filme	0.221
+mudar o comportamento	-0.18
+ficar sem dinheiro	-0.391
+bem-estar	0.967
+nettlesome	-0.755
+downheartedness	-0.241
+quer saber	0.235
+Apresse-se ao longo	0.97
+Adeus	0.292
+se machucar	-0.262
+Concordo	0.32
+sentir culpa	-0.834
+lucro	0.122
+satisfatoriamente	0.26
+pagar bem	0.887
+teoria	0.321
+softheartedness	0.472
+hostil	0.678
+Asse o bolo	0.154
+tranquilize	0.339
+pertencem grupo	0.971
+Gusto	0.171
+brilho do sol	0.12
+origem	0.115
+qualidade ruim	-0.887
+receitas	0.14
+terrivelmente	-0.415
+desajeitado	-0.117
+alegremente	0.279
+dado	0.331
+agir bobo	0.29
+esperar para sempre	-0.979
+festividade	0.184
+Cope	0.285
+hum	0.172
+doloroso	-0.104
+grunhido	-0.102
+fulgurous	-0.485
+exigem	0.362
+acredito que Deus	0.278
+preto	-0.139
+entrar loja	0.668
+juramento	0.355
+jogo de beisebol	0.285
+Pro	0.118
+formiga	-0.162
+Suspense	-0.365
+alegre bom	0.147
+qualquer	0.118
+surpreendentemente	0.678
+ideal	0.572
+bloco do escritor	-0.116
+desejo	0.505
+-se	0.11
+bater carro	-0.655
+escova de cabelo	0.961
+amicableness	0.214
+orgulhoso	0.312
+muro de imagens de pendurar	0.969
+terno amor	0.513
+perder a vida	-0.885
+resposta de Guess	0.948
+assistir jogo	0.132
+crime	-0.313
+Guerra termonuclear	-0.597
+temido	-0.456
+pessoa gasta	-0.231
+Veja bem escuro	0.708
+antler	-0.816
+encerramento	0.373
+pode morrer	-0.273
+emote	-0.155
+ir a cadeia	-0.462
+compartilhar a comida	0.971
+incentivou	0.167
+Sinta-se relaxar	0.234
+hipoteca	-0.134
+Se cuida	0.247
+emotionlessness	0.183
+chegada	0.187
+Thunderstruck	0.674
+destemido	0.172
+dormir com	0.68
+comprar cachorro-quente	-0.152
+animus	-0.418
+cerveja	-0.938
+constrangimento	-0.728
+mortalmente	-0.371
+Quiet	0.301
+obter fogo	-0.593
+som de sapo	-0.146
+senador	0.966
+cutelo	-0.217
+hora de relaxar	0.895
+Unquiet	-0.32
+ressentimento	-0.431
+poo	0.683
+ansioso	-0.196
+casa de crack	0.972
+ir casino	0.104
+uivo do riso	0.104
+exasperar	-0.757
+ilha tropical	0.971
+Ministro	0.17
+atento	0.257
+igualdade de todos	0.122
+se conhecer melhor	0.121
+rir muito	0.103
+embrulhar o presente	0.423
+appreciativeness	0.165
+timidamente	-0.443
+dor emocional	-0.787
+ressentido	-0.321
+Veja-se	0.127
+intestino do verme	-0.523
+agitado	-0.299
+eremita	0.676
+cozido	0.472
+aplaudir	-0.12
+erva daninha	0.408
+delicado	0.121
+vogal	0.59
+tornar-se popular	0.142
+Assembleia de escola	0.112
+Considerando	0.303
+fazer sorrir	0.11
+recompensa	0.364
+oferecer ajuda	0.3
+Sinta-se atualizar	0.253
+ficar bonita	0.188
+perigosa	-0.106
+destemido	0.172
+hostilely	-0.422
+todos os anos	0.175
+dar ordem	0.961
+vela de bolo	0.194
+beneficed	0.187
+sala limpa	0.285
+sanidade	0.967
+atingir meta	0.967
+snort	-0.335
+frade	0.164
+escravo livre	0.368
+receber o dom	0.883
+educar o palpite	0.122
+humor	0.139
+Happy eventos	0.186
+incredulidade	-0.159
+gerir empresa	0.972
+Buda	0.196
+saltar de alegria	0.326
+Fantasiar	0.102
+apavorado	-0.449
+Chivy	-0.47
+Ah	0.316
+zeloso	0.474
+covardemente	-0.439
+custou nada	0.344
+dia de cabelo ruim	-0.942
+determinar	0.163
+tempo de matar	0.198
+racismo	-0.132
+Cristianismo	0.207
+racista	0.668
+como os peixes	0.966
+travessuras	-0.128
+tranquilidade	0.458
+em conta	0.638
+falar de outra pessoa	0.3
+parte do plano	0.317
+promover	0.968
+aquecer	0.97
+excruciate	-0.141
+efectuar em data	0.118
+rir de pessoa	0.31
+jogo de basquete	0.664
+gosto	0.197
+assustar	-0.501
+Bispo	0.167
+incorreto	-0.257
+carta de tipo	0.678
+como o carro	0.14
+idiota	-0.371
+merecem	0.111
+Accolade	0.45
+Apatetar	0.674
+Sinta-se seguro	0.881
+Use a arma	-0.201
+subir escada	0.963
+alto astral	0.279
+fazer morrer	-0.108
+aplausos	0.289
+sofrem de dor	-0.738
+Guerra de morrer	-0.582
+colocar meia	0.291
+misopedia	-0.365
+pertencentes	0.286
+perder o jogo	-0.113
+festa anual	0.131
+usar o freio	0.266
+fazer compostagem	0.964
+programa	0.102
+Sue	-0.656
+esmagar	0.174
+ter empatia	-0.109
+ganhar dinheiro	-0.114
+comportamento	0.543
+trabalho penoso	-0.829
+relaxamento	0.167
+ler e-mail	-0.113
+horrorizado	-0.415
+Alegre	0.274
+causar dor	-0.756
+se sente sozinho	-0.855
+item de lista	0.97
+de repente	0.105
+permanecer ainda	0.143
+distanciar-se	-0.979
+esnobar	-0.872
+trazer presente	0.885
+prosseguir	0.167
+self-depreciation	-0.214
+irritar	-0.828
+woefulness	-0.363
+Torne-se amigo	0.17
+falha	0.682
+Quando pessoa	0.185
+tristeza do passado	-0.235
+gaguejar	-0.759
+vara	0.212
+flacidez	-0.743
+conhecido	0.694
+sem dinheiro	-0.944
+com prazer	0.308
+jogo de orquestra	0.155
+objetivo	0.526
+um pouco	0.391
+simplicidade	0.97
+tudo bem	0.619
+beber muita cerveja	0.967
+misantropo	-0.206
+partida	0.173
+proximidade	0.295
+fazer o punho	-0.498
+indignado	-0.738
+hardheartedness	-0.432
+divertido tempo	0.145
+rezar	0.238
+atingidos	-0.13
+sentir o resto	0.254
+carteira de dinheiro	0.97
+escolha time	0.959
+retorno	0.251
+evitar a dor	0.596
+acumular	0.167
+tornar a pessoa doente	-0.183
+amizade	0.19
+nicotina	0.108
+deixar o lugar	0.957
+sinto muito	0.602
+beneficente	0.187
+oprimido	-0.135
+esperar	0.184
+comprometer-se	0.416
+ressentida	-0.321
+pergunta resposta	0.672
+apreciar a beleza	0.952
+dia chuvoso	-0.29
+reverente	-0.437
+desassossego	-0.262
+ter dinheiro	0.126
+Cuidar	0.65
+crime culpado	-0.684
+sinto por	-0.26
+monotonia	-0.816
+bolha	-0.378
+Caveira ossos cruzados	-0.118
+Ver o mundo	0.106
+passar por cima	0.114
+insalubre	-0.625
+superior	-0.101
+Sinta-se	0.363
+radical	0.127
+operador de telefone	0.676
+simpatia	0.828
+homem mulher	0.298
+sinal de amor	0.18
+nervosismo	-0.185
+para obter	0.213
+pagar o trabalho	0.97
+alegremente	0.154
+Tesoureiro	0.974
+fidget	-0.297
+convencido	0.309
+exausto com o mundo	-0.366
+ultrajante	-0.517
+caule	-0.553
+nascimento dia	0.173
+escrever amigo	0.6
+tirar sarro	-0.833
+Gala	0.133
+Gall	-0.321
+Rochester	0.971
+vingativamente	-0.492
+Ver de longe	0.76
+construir a Catedral	0.196
+queimar-se	0.103
+embriaguez	-0.211
+troca directa	0.197
+apaixonado por	0.148
+auto-orgulho	0.163
+agravar	-0.762
+recuperar energia	0.217
+Set-apart	-0.502
+falar alto	0.122
+pena	-0.176
+trair	-0.951
+tirar foto	0.285
+bater	-0.103
+bebida Coca-Cola	0.143
+dar resposta	0.674
+irado	-0.759
+boa compra	0.214
+vertigem	-0.21
+em massa de grande	-0.303
+tremo	-0.443
+mudo	-0.187
+Barf	-0.765
+desamparado	-0.379
+pessoa famosa	0.967
+inebriam	0.152
+fim de casamento	-0.222
+encontrar cumprimentar	0.969
+ter sucesso	0.335
+sanguinity	0.17
+Free bird	0.966
+supervisionar	0.966
+assistir concerto	0.302
+mau comportamento	-0.173
+timorousness	-0.391
+comida bebida	0.119
+nettled	-0.755
+socorro	-0.603
+rave	0.29
+simpatizo com	0.26
+Dun	-0.764
+negligenciar	-0.851
+devido	0.118
+apprehensively	-0.473
+fechando a porta	0.967
+afetuoso	0.148
+matar ratos	0.118
+demanda	0.317
+Infuriation	-0.747
+polegar verde	0.682
+congelados	-0.482
+faca de corte	0.679
+quarta de julho	0.471
+comportamento	0.384
+ir a lua	0.963
+levar a pessoa	0.319
+tirar o vazamento	0.962
+disgustful	-0.416
+Tome nota	0.253
+carta de post	0.673
+preparar o exame	0.267
+pessoa dar	0.12
+pena de morte	-0.815
+Ai doer	-0.162
+afectividade	0.165
+aconselhar	0.211
+Wall street	0.674
+negociar	0.214
+ninhada	-0.288
+inquieto	-0.473
+solenidade	0.287
+rotatividade acima	-0.108
+nervosa	-0.189
+Dinner party	0.289
+queixa	-0.313
+fardo	0.128
+poluir o meio ambiente	-0.731
+festa	0.125
+Ferva o ovo	0.683
+tristes	-0.249
+enlouquecer	0.509
+a maneira	0.969
+gastar tempo amigo	0.101
+boquiabertos	0.674
+sorriso alto	0.108
+ignorar	-0.826
+agravamento	-0.925
+seduzir	0.142
+essencial	0.43
+importunado	-0.755
+inclinado	-0.507
+resto de tempo	0.284
+pano limpo	0.203
+realizar a tarefa	0.736
+baile de finalistas	0.103
+perder o controle	-0.763
+computador do trabalho	0.3
+jumpy	-0.189
+joelho de pele	-0.701
+colocar o dedo anelar	0.982
+camisola de malha	0.956
+zumbi	-0.121
+atropelado por carro	-0.894
+outro significativo	0.974
+intensa	0.135
+Experimente o melhor	0.963
+gentileza	0.638
+Medonhas	-0.471
+jogo de bola	0.683
+etapa para fora	0.673
+glooming	-0.351
+piteous	-0.406
+quebrar	0.1
+emprestar dinheiro	0.973
+assassinato de outra pessoa	-0.682
+assistir bons filmes	0.955
+medo	-0.551
+desesperadamente	-0.379
+beijo de noiva	0.98
+audacioso	0.172
+gladfulness	0.287
+mistificar	0.674
+Hush	0.332
+matar humanos	-0.876
+boa vontade	0.217
+obter Lino	0.295
+fascinante	0.485
+treinar a mente aberta	0.961
+passar os exames	0.287
+usar o talento	0.29
+Rali	-0.108
+paz	0.375
+manter fresco	0.192
+carga de ombro	-0.768
+zombar	-0.86
+bom	0.418
+precisa de muito	0.677
+inflamar	-0.414
+rugas	-0.484
+protectiveness	0.167
+impaciente	-0.193
+conversa de pessoa	0.105
+usar eletricidade	0.204
+elevador de peso	0.969
+pegar frio	-0.315
+dinheiro de Monte	0.131
+olhos verdes	0.281
+Alien	-0.231
+preocupante	-0.208
+ida de lua	0.669
+encontrar a paragem de Metro	0.686
+fio dental	0.972
+jogar tag	0.102
+encontrar a caneta	-0.486
+boa noite dormir	0.451
+Spook	-0.278
+frisson	0.119
+perder o emprego	-0.247
+escolher a flor	0.959
+ternura	0.98
+uncheerful	-0.218
+amizade	0.227
+cozimento	-0.238
+rato de Noruega	-0.833
+abominably	-0.396
+folk	0.291
+dia de sol	0.138
+explorar	0.464
+destemor	0.172
+Cozy	0.224
+janela quebrada	-0.944
+sentir orgulho	0.153
+explorar	0.286
+sexy	0.439
+angustiado	-0.141
+dispiritedness	-0.241
+estimulando	0.152
+febrilmente	-0.279
+se o acidente	-0.162
+Hardy	0.172
+avidness	0.174
+Ha ha	0.333
+taxa	0.118
+hippie	0.142
+Grupo de parte	0.969
+germe	-0.889
+procrastinar	0.881
+exame	-0.261
+chorando	-0.238
+inteligente	0.589
+impress	0.456
+viver bem	0.96
+ferida	-0.49
+irritar	-0.843
+escolha de muitos	0.685
+dizer boas-vindas	0.578
+evento anual	0.131
+prova	0.199
+seriedade	-0.303
+outgo personalidade	0.134
+Tan	0.162
+estupro	-0.235
+assistir desfile	0.968
+pecado	-0.137
+perigo	-0.146
+desconforto	-0.55
+abuso	-0.684
+taco	0.682
+sente-se cadeira de rocha	0.969
+descrente	0.693
+andar no ar	0.326
+mau cheiro	-0.509
+sancionada	0.226
+seduzir	0.212
+pequena luz	0.107
+tirano	-0.237
+indignado	-0.738
+Anda logo	0.686
+Glee	0.186
+vital	0.177
+vida contemplativa	0.288
+escolha	0.208
+dar prazer	0.399
+acidente	-0.146
+riqueza	0.374
+derrota	-0.15
+advogado de aluguer	-0.186
+republicano	0.128
+profunda	-0.109
+editar	0.159
+causava	0.303
+me sinto triste	-0.294
+comprar a felicidade	-0.237
+viagem no tempo	0.311
+quarta capela	0.16
+expandir o conhecimento	0.985
+outra pessoa	0.407
+sentimento	0.177
+amarrar	-0.855
+caos	-0.711
+doce sabor	0.297
+em desespero	-0.28
+iPod	0.373
+Philia	0.165
+afetiva	0.165
+desagradar	-0.757
+gerbil	-0.153
+sente-se ainda	0.132
+cometer crime	-0.114
+segundo pensamento	0.122
+estupefatos	0.674
+Eco	0.133
+desmoralizada	-0.243
+toppingly	0.678
+desconhecido	-0.549
+compatibilidade	0.748
+oprimi-	-0.868
+dia de jejum	0.674
+perplexo	0.677
+jardim de trabalho	0.968
+isolamento	-0.862
+riquezas	0.121
+evento social	0.149
+cavar ouro	0.968
+queimar o lixo	0.674
+crucificar	-0.764
+unagitated	0.418
+obter Data	0.367
+sinceridade	0.303
+festa presente	0.131
+passado do verbo	0.187
+com medo	-0.639
+condole com	-0.26
+Ver ator	0.179
+dormir fora	-0.834
+quero mal	0.64
+asshole	0.284
+pessoa de agulha	0.892
+viver para sempre	-0.928
+confronto	-0.132
+ruthful	-0.36
+Espalhe a palavra	0.967
+mente tranquila	0.29
+alarmado	-0.454
+marido mulher	0.519
+negar	-0.862
+terminar a faculdade	0.131
+ronronar de gato	0.381
+longevidade	0.34
+medo	-0.452
+prazer	0.303
+caspa	-0.926
+vai morrer	-0.107
+indignado	-0.738
+swindle	-0.943
+ajoelhar-se	0.264
+carne crua	-0.765
+placidity	0.366
+alentar	0.279
+mau humor	-0.251
+Amour	0.212
+favor	0.353
+sentir medo	-0.102
+longa vida	0.352
+mirthfully	0.303
+controle da mente	-0.882
+pavorosamente	-0.415
+alegria	0.428
+estragar	-0.369
+casa velha folk	0.969
+aguardai	-0.456
+ouvir a Orquestra	0.679
+jogar jack	0.289
+pessoa de bug	0.663
+assento cadeira	0.971
+insistir	0.279
+dormir o suficiente	0.97
+bem-vindo amigo	0.293
+respeito	0.788
+infelicidade	-0.655
+aprender escola	0.1
+Saddle sore	-0.224
+cortar grama	0.955
+derrame o leite	-0.728
+presentes	0.184
+auto-estima	0.515
+tempo de dinheiro	0.129
+celebrar o feriado	0.298
+bondade	0.705
+com medo	-0.944
+irado	-0.164
+contato humano	0.968
+apontar o dedo	0.97
+descuido	-0.121
+reprovar	-0.505
+encorajamento	0.578
+misogynism	-0.369
+enlouquecedora	-0.748
+fruta doce	0.668
+Budismo	0.217
+misericordioso	-0.105
+Restaurante barato	0.965
+obter energia	0.154
+escravo	-0.3
+discordo	-0.26
+amicability	0.214
+faz sentido	0.595
+barco de placa	0.68
+impaciente	-0.198
+correspondente	0.602
+balancim	0.287
+pessoa pode	0.355
+obter	0.769
+felicidade	0.31
+console	0.436
+despisal	-0.409
+finalidade religiosa	0.254
+atraente	0.42
+sinceramente	-0.303
+cativante	0.212
+termo	0.113
+assustadoramente	-0.391
+openmind	-0.575
+perdedor	-0.821
+roubar loja	0.685
+sentindo-se ferido	-0.868
+com medo	-0.391
+crescimento	0.312
+scarey	-0.418
+salto	0.219
+jogar lego	0.291
+sangue ruim	-0.418
+Localize	0.195
+obedecer	0.486
+crescer a barba	0.286
+saber a verdade	0.328
+cabelo castanho	0.679
+Gamo	-0.304
+verificar e-mail	0.189

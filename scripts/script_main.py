@@ -1,20 +1,25 @@
 # -*- coding: utf-8 -*-
 
 import re
+import sys
 import csv
 import ast
 from BeautifulSoup import BeautifulSoup
 
 #TODO substituir esse script por mapReduce
 
+if len(sys.argv) != 4:
+  print "Uso: python script_main.py <arquivo com palavraXpolaridade> <arquivo com stopwords> <arquivo de tweets>"
+  sys.exit()
+
 #Preparacao do dicionario de palavras com suas polaridades
 dicionario = {}
 
-palavra_polaridade = open('palavra_polaridade_pt.txt','r')
+palavra_polaridade = open(sys.argv[1],'r')
 for linha in palavra_polaridade.readlines():
   try:
-    linha_split = linha.split('|')
-    dicionario[linha_split[0].strip().lower()] = linha_split[1].strip().replace(',','.').replace(' ','')
+    linha_split = linha.split('\t')
+    dicionario[linha_split[0].strip().lower()] = float(linha_split[1].strip().replace(',','.').replace(' ',''))
   except IndexError:
     continue
 #Fim da preparacao
@@ -22,9 +27,9 @@ for linha in palavra_polaridade.readlines():
 emotions_pos = (' =)',' :)',' :-)',' :D',' ;)',' ;D')
 emotions_neg = (' =(',' :(',' :-(',' ;(',' :/',' :[')
 
-stopwords = open('stopwords.txt','rb').read().split('\n')
+stopwords = open(sys.argv[2],'rb').read().split('\n')
 
-arquivo = open('tweets_dump_5k.txt', 'r')
+arquivo = open(sys.argv[3], 'r')
 dados = []
 for linha in arquivo.readlines():
   aux_list = []
