@@ -63,7 +63,7 @@ def preprocessamento(linha):
       token = token.replace('!','').replace('?','').replace('.','').replace(',','').replace('\'','').replace('\"','')
       if not token.lower() in stopwords:
         linhaPreprocessada.append(token)
-  return ' '.join(linhaPreprocessada).strip().lower()
+  return ' '.join(linhaPreprocessada).strip().lower().replace('\t','')
 
 DATA_TIME = 3
 lista_resultados = []
