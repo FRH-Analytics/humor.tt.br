@@ -6,7 +6,7 @@ import csv
 import ast
 from BeautifulSoup import BeautifulSoup
 
-#TODO substituir esse script por mapReduce
+#TODO substituir esse script por mapReduce, se houver necessidade
 
 if len(sys.argv) != 4:
   print "Uso: python script_main.py <arquivo com palavraXpolaridade> <arquivo com stopwords> <arquivo de tweets>"
@@ -39,6 +39,7 @@ for linha in arquivo.readlines():
     aux_list.append(linha_split[1])
     aux_list.append(linha_split[2])
     aux_list.append(linha_split[3])
+    aux_list.append(linha_split[4])
     dados.append(aux_list)
   except:
     continue
@@ -66,41 +67,63 @@ def preprocessamento(linha):
   return ' '.join(linhaPreprocessada).strip().lower().replace('\t','')
 
 DATA_TIME = 3
+DATA_TT   = 4
 lista_resultados = []
 n_tweet = 0
+
 for linha in dados:
   linhaTimeStamp = linha[DATA_TIME]
-  linhaText = preprocessamento(linha)
+  linhaTT        = linha[DATA_TT]
+  linhaText      = preprocessamento(linha)
+
+  #Analisa presenca de emotions
   if containsEmotion(linhaText, emotions_pos) and not containsEmotion(linhaText, emotions_neg):
     lista_resultados.append((linhaText, 1))
   elif not containsEmotion(linhaText, emotions_pos) and containsEmotion(linhaText, emotions_neg):
     lista_resultados.append((linhaText, -1))
   else:
+  #Analise textual em si.
     palavras = linhaText.split(' ')
     soma = 0
+    n_expressoes = 0    
     
-    for palavra in palavras:
-      try:
-        soma = soma + float(dicionario[palavra.strip().lower()])
-      except KeyError:
-        continue
-
-    if soma == 0:
-      for i in range(0, len(palavras) - 1):
-        try:
-          bigrama = palavras[i].strip()+" "+palavras[i+1].strip()
-          soma = soma + float(dicionario[bigrama.lower()])
-        except KeyError, IndexError:
-          continue
-
+    #Tenta classificar por tri-gramas
     if soma == 0 and len(palavras) >= 3:
+
       for i in range(0, len(palavras) - 2):
         try:
           trigrama = palavras[i].strip()+" "+palavras[i+1].strip()+" "+palavras[i+2].strip()
           soma = soma + float(dicionario[trigrama.lower()])
+          n_expressoes = n_expressoes + 1
         except KeyError, IndexError:
           continue
-    lista_resultados.append((linhaTimeStamp,linhaText, soma))
+
+    #Tenta classificar por bi-gramas
+    if soma == 0 and len(palavras) >= 2:
+ 
+      for i in range(0, len(palavras) - 1):
+        try:
+          bigrama = palavras[i].strip()+" "+palavras[i+1].strip()
+          soma = soma + float(dicionario[bigrama.lower()])
+          n_expressoes = n_expressoes + 1
+        except KeyError, IndexError:
+          continue
+
+    #Classifica por palavras individuais
+    if soma == 0:
+
+      for palavra in palavras:
+         try:
+           soma = soma + float(dicionario[palavra.strip().lower()])
+           n_expressoes = n_expressoes + 1
+         except KeyError, IndexError:
+           continue
+
+    try:      
+      lista_resultados.append((linhaTimeStamp,linhaText, soma/n_expressoes, linhaTT))
+    except ZeroDivisionError:
+      continue
+
   n_tweet = n_tweet + 1
   print "Numero de tweets processados: %s"%(str(n_tweet))
 
@@ -113,8 +136,9 @@ for i in lista_resultados:
       print "Timestamp: %s"%i[0]
       print "Tweet: %s"%i[1]
       print "Polaridade: %s"%str(i[2])
+      print "TT: %s"%str(i[3])
       print "================================================================"
-      arq_saida.write("%s\t%s\t%s\n"%(str(i[0]),str(i[1]), str(i[2])))
+      arq_saida.write("%s\t%s\t%s\t%s\n"%(str(i[0]),str(i[1]), str(i[2]), str(i[3])))
   except:
     continue
 arq_saida.close()
