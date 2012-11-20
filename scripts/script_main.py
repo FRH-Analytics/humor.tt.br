@@ -155,7 +155,7 @@ for i in lista_resultados:
       print "Polaridade: %s"%str(i[2])
       print "TT: %s"%str(i[3])
       print "================================================================"
-      arq_saida.write("%s\t%s\t%s\t%s\n"%(str(i[0]),str(i[1]), str(i[2]), str(i[3])))
+      arq_saida.write("%s\t%s\t%s\t%s\t%s\n"%(str(i[0]),str(i[1]), str(i[2]), str(i[3]), str(i[4])))
   except:
     continue
 arq_saida.close()
