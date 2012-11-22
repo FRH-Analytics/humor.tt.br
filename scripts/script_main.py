@@ -1,15 +1,14 @@
 # -*- coding: utf-8 -*-
 
 import re
+import os
 import sys
 import csv
 import ast
 from BeautifulSoup import BeautifulSoup
 
-#TODO substituir esse script por mapReduce, se houver necessidade
-
 if len(sys.argv) != 4:
-  print "Uso: python script_main.py <arquivo com palavraXpolaridade> <arquivo com stopwords> <arquivo de tweets>"
+  print "Uso: python script_main.py <arquivo com palavraXpolaridade> <arquivo com stopwords> <diretorio de base de tweets>"
   sys.exit()
 
 #Preparacao do dicionario de palavras com suas polaridades
@@ -46,9 +45,17 @@ emotions_neg = (":-(", ")-:", ")-8", ":(", "):", ")8", ";-(", ")-;", ";(", ");",
 
 stopwords = open(sys.argv[2],'rb').read().split('\n')
 
-arquivo = open(sys.argv[3], 'r')
+arquivos = []
+
+#Pega os arquivos do diretorio de dump
+for arquivo in os.listdir(sys.argv[3]):
+  arqAux = open(sys.argv[3]+os.sep+arquivo, 'r')
+  for linhaAux in arqAux.readlines():
+    arquivos.append(linhaAux)
+  arqAux.close()
+
 dados = []
-for linha in arquivo.readlines():
+for linha in arquivos:
   aux_list = []
   try:
     linha_split = linha.split('","')
@@ -57,6 +64,7 @@ for linha in arquivo.readlines():
     aux_list.append(linha_split[2])
     aux_list.append(linha_split[3])
     aux_list.append(linha_split[4])
+    aux_list.append(linha_split[5])
     dados.append(aux_list)
   except:
     continue
@@ -83,14 +91,16 @@ def preprocessamento(linha):
         linhaPreprocessada.append(token)
   return ' '.join(linhaPreprocessada).strip().lower().replace('\t','')
 
-DATA_TIME = 3
-DATA_TT   = 4
+DATA_TIME     = 3
+DATA_LOCATION = 4
+DATA_TT       = 5
 lista_resultados = []
 n_tweet = 0
 
 for linha in dados:
   linhaTimeStamp = linha[DATA_TIME]
   linhaTT        = linha[DATA_TT]
+  linhaLocation  = linha[DATA_LOCATION]
   linhaText      = preprocessamento(linha)
 
   #Analisa presenca de emotions
@@ -137,14 +147,14 @@ for linha in dados:
            continue
 
     try:      
-      lista_resultados.append((linhaTimeStamp,linhaText, soma/n_expressoes, linhaTT))
+      lista_resultados.append((linhaTimeStamp,linhaText, soma/n_expressoes, linhaTT, linhaLocation))
     except ZeroDivisionError:
       continue
 
   n_tweet = n_tweet + 1
   print "Numero de tweets processados: %s"%(str(n_tweet))
 
-arq_saida = open('amostra_500k_polarizada.txt','a')
+arq_saida = open('saidaPolarizada.txt','a')
 
 for i in lista_resultados:
   try:
@@ -154,8 +164,9 @@ for i in lista_resultados:
       print "Tweet: %s"%i[1]
       print "Polaridade: %s"%str(i[2])
       print "TT: %s"%str(i[3])
+      print "LOC: %s"%str(i[4])
       print "================================================================"
-      arq_saida.write("%s\t%s\t%s\t%s\t%s\n"%(str(i[0]),str(i[1]), str(i[2]), str(i[3]), str(i[4])))
+      arq_saida.write("%s\t%s\t%s\t%s\t%s\n"%(str(i[0]).strip(),str(i[1]).strip(), str(i[2]).strip(), str(i[3]).strip(), str(i[4].strip())))
   except:
     continue
 arq_saida.close()
